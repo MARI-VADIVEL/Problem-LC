@@ -87,6 +87,23 @@ Constraints:
 1 <= nums.length <= 100
 0 <= nums[i] <= 109
 
+Approach:
+Convert numbers to strings.
+
+Compare two numbers by checking a+b and b+a.
+
+Place the number first which gives the larger combination.
+
+Sort all numbers using this rule.
+
+Concatenate all numbers after sorting.
+
+If the first number is 0, return "0".
+
+Time Complexity: O(n log n)
+
+Space Complexity: O(n)
+
 
 
 
