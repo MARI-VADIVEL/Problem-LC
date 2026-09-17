@@ -1097,3 +1097,14 @@ Big O notation describes how an algorithm's running time or memory usage grows a
 Example:
 Example: An algorithm that checks every element once has O(n) time complexity.
 
+
+========================================
+BIG O TOPIC: O(1) Constant Time
+========================================
+
+Explanation:
+O(1) means the operation takes approximately the same amount of time regardless of input size.
+
+Example:
+Example: Accessing arr[5] in an array takes O(1) time.
+
