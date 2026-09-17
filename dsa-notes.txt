@@ -1437,3 +1437,14 @@ Accessing a specific position in a singly linked list requires traversing from t
 Example:
 Example: Finding the 100th node requires following the next reference repeatedly.
 
+
+========================================
+BIG O TOPIC: Linked List Insertion
+========================================
+
+Explanation:
+Insertion at the beginning of a linked list takes O(1) when the head reference is available. Insertion at an arbitrary position may require O(n) traversal.
+
+Example:
+Example: A new node can become the new head without scanning the list.
+
