@@ -438,3 +438,14 @@ Arrays provide fast O(1) indexed access, while linked lists provide flexible nod
 Example:
 Example: Accessing index 100 is direct in an array but requires traversal in a linked list.
 
+
+========================================
+LINKED LIST THEORY: Singly vs Doubly Linked List
+========================================
+
+Explanation:
+Singly linked lists use one link per node, while doubly linked lists use previous and next links. Doubly linked lists support easier backward traversal but require more memory.
+
+Example:
+Example: A doubly linked list can move from 30 back to 20 directly.
+
