@@ -559,3 +559,14 @@ A prefix minimum stores the smallest value encountered from the beginning up to 
 Example:
 Example: For [4,2,5,1], prefix minimum values are [4,2,2,1].
 
+
+========================================
+DSA TOPIC: Suffix Minimum
+========================================
+
+Explanation:
+A suffix minimum stores the smallest value from each index to the end of an array. It is useful when comparing an element with values to its right.
+
+Example:
+Example: For [4,2,5,1], suffix minimum values are [1,1,1,1].
+
