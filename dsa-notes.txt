@@ -1426,3 +1426,14 @@ Searching an unsorted array requires checking elements until the target is found
 Example:
 Example: Searching for 50 in [10,20,30,40,50] may require checking every element.
 
+
+========================================
+BIG O TOPIC: Linked List Access
+========================================
+
+Explanation:
+Accessing a specific position in a singly linked list requires traversing from the head, resulting in O(n) time.
+
+Example:
+Example: Finding the 100th node requires following the next reference repeatedly.
+
