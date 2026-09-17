@@ -790,3 +790,14 @@ A balanced binary tree keeps subtree heights reasonably close so operations rema
 Example:
 Example: A balanced tree divides values across left and right subtrees.
 
+
+========================================
+DSA TOPIC: Heap
+========================================
+
+Explanation:
+A heap is a complete binary tree that follows a heap-order property. In a min-heap the smallest element is at the root, while in a max-heap the largest is at the root.
+
+Example:
+Example: A min-heap can quickly provide the smallest element.
+
