@@ -724,3 +724,14 @@ Spiral traversal visits matrix elements from the outer boundary toward the cente
 Example:
 Example: A matrix is traversed top row, right column, bottom row, and left column repeatedly.
 
+
+========================================
+DSA TOPIC: Binary Search Tree
+========================================
+
+Explanation:
+A Binary Search Tree follows the rule that values smaller than a node are placed in the left subtree and larger values are placed in the right subtree.
+
+Example:
+Example: In a BST with root 10, values 5 and 15 can appear on the left and right.
+
