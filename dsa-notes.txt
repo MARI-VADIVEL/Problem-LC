@@ -163,3 +163,14 @@ Hashing maps keys to locations using a hash function. Hash tables provide averag
 Example:
 Example: A HashSet can quickly determine whether a value already exists.
 
+
+========================================
+DSA TOPIC: HashSet
+========================================
+
+Explanation:
+A HashSet stores unique elements and does not allow duplicates. It uses hashing internally and provides average O(1) lookup, insertion, and deletion.
+
+Example:
+Example: Adding 10 twice to a HashSet still leaves only one 10.
+
