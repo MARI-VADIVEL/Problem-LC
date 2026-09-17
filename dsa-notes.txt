@@ -1382,3 +1382,14 @@ A properly implemented sliding-window algorithm usually processes each element a
 Example:
 Example: Finding the longest substring satisfying a condition can use a moving window.
 
+
+========================================
+BIG O TOPIC: HashMap Complexity
+========================================
+
+Explanation:
+HashMap operations such as insertion and lookup are generally O(1) on average, although worst-case behavior can differ depending on implementation and collisions.
+
+Example:
+Example: Frequency counting can usually be performed in O(n) time using a HashMap.
+
