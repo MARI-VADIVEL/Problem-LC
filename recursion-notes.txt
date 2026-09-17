@@ -350,3 +350,14 @@ Inorder traversal recursively visits the left subtree, processes the root, and t
 Example:
 Example: The order is Left -> Root -> Right.
 
+
+========================================
+RECURSION THEORY: Postorder Recursion
+========================================
+
+Explanation:
+Postorder traversal processes both child subtrees before processing the root.
+
+Example:
+Example: The order is Left -> Right -> Root.
+
