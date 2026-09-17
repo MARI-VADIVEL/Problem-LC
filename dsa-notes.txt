@@ -1207,3 +1207,14 @@ Worst-case complexity describes the maximum amount of work an algorithm may perf
 Example:
 Example: Linear search has O(n) worst-case time when the target is absent or at the end.
 
+
+========================================
+BIG O TOPIC: Average Case Complexity
+========================================
+
+Explanation:
+Average-case complexity describes expected performance across inputs under a specified input distribution or assumption.
+
+Example:
+Example: Quick sort has average O(n log n) time under typical pivot behavior.
+
