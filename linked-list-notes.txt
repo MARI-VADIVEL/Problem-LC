@@ -416,3 +416,14 @@ The length of a linked list is the number of nodes it contains. Without a stored
 Example:
 Example: 10 -> 20 -> 30 has length 3.
 
+
+========================================
+LINKED LIST THEORY: Linked List Complexity
+========================================
+
+Explanation:
+Access and search in a linked list are generally O(n), while insertion or deletion can be O(1) when the required node reference or position is already known.
+
+Example:
+Example: Changing a next pointer can be constant time once the correct node is available.
+
