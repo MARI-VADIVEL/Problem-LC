@@ -515,3 +515,14 @@ Recursion can naturally process linked lists because every node points to a smal
 Example:
 Example: A recursive traversal can print nodes from head to tail.
 
+
+========================================
+LINKED LIST THEORY: Linked List Stack Relationship
+========================================
+
+Explanation:
+A linked list can be used to implement a stack because insertion and deletion at the head can both be performed in O(1) time.
+
+Example:
+Example: Push creates a new head node and pop removes the current head.
+
