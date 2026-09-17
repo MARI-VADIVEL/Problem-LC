@@ -856,3 +856,14 @@ A trie is a tree-like data structure designed for storing strings based on their
 Example:
 Example: Words "cat" and "car" share the prefix "ca" in a trie.
 
+
+========================================
+DSA TOPIC: Trie Prefix Search
+========================================
+
+Explanation:
+Trie prefix search checks whether any stored word begins with a given prefix. Characters are followed through trie nodes until the prefix ends.
+
+Example:
+Example: Searching prefix "app" can find words such as "apple" and "application".
+
