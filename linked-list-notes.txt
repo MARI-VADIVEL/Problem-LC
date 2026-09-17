@@ -262,3 +262,14 @@ The middle node can be found efficiently using slow and fast pointers. Slow move
 Example:
 Example: In 1 -> 2 -> 3 -> 4 -> 5, slow reaches 3.
 
+
+========================================
+LINKED LIST THEORY: Fast Pointer
+========================================
+
+Explanation:
+The fast pointer moves faster than the slow pointer, usually two nodes at a time. It is useful for finding the middle and detecting cycles.
+
+Example:
+Example: slow moves one node while fast moves two nodes.
+
