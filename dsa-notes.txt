@@ -1130,3 +1130,14 @@ O(n) means the running time grows directly with the input size. If the input dou
 Example:
 Example: Traversing all elements of an array requires O(n) time.
 
+
+========================================
+BIG O TOPIC: O(n log n) Linearithmic Time
+========================================
+
+Explanation:
+O(n log n) commonly appears when an algorithm divides the input into levels and processes all elements at each level.
+
+Example:
+Example: Merge sort has O(n log n) time complexity.
+
