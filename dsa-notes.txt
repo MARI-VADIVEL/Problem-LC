@@ -416,3 +416,14 @@ Breadth-first search explores a graph or tree level by level. It normally uses a
 Example:
 Example: Starting from a root, BFS visits all immediate neighbors before moving deeper.
 
+
+========================================
+DSA TOPIC: DFS
+========================================
+
+Explanation:
+Depth-first search explores as far as possible along one path before backtracking. It can be implemented using recursion or an explicit stack.
+
+Example:
+Example: DFS can visit one branch of a tree completely before exploring another branch.
+
