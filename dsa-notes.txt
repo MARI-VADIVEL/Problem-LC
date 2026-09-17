@@ -845,3 +845,14 @@ Heap sort builds a heap and repeatedly extracts the appropriate extreme element.
 Example:
 Example: A max-heap can repeatedly move the largest element to the end.
 
+
+========================================
+DSA TOPIC: Trie
+========================================
+
+Explanation:
+A trie is a tree-like data structure designed for storing strings based on their prefixes. It provides efficient prefix-based searching.
+
+Example:
+Example: Words "cat" and "car" share the prefix "ca" in a trie.
+
