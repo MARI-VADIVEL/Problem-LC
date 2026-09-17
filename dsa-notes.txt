@@ -1360,3 +1360,14 @@ A loop that repeatedly halves a value also has O(log n) iterations.
 Example:
 Example: Binary search reduces the remaining search range by half.
 
+
+========================================
+BIG O TOPIC: Two Pointer Complexity
+========================================
+
+Explanation:
+Two-pointer algorithms often achieve O(n) time because each pointer moves through the input a limited number of times.
+
+Example:
+Example: Checking whether a sorted array contains two values with a target sum can use two pointers.
+
