@@ -328,3 +328,14 @@ Trees are naturally recursive because each subtree is itself a smaller tree. Tre
 Example:
 Example: A binary tree traversal recursively processes the left and right subtrees.
 
+
+========================================
+RECURSION THEORY: Preorder Recursion
+========================================
+
+Explanation:
+Preorder traversal visits the root first, then recursively visits the left subtree and the right subtree.
+
+Example:
+Example: The order is Root -> Left -> Right.
+
