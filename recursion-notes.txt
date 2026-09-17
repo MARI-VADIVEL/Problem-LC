@@ -394,3 +394,14 @@ Backtracking is a recursive technique that builds a solution step by step, explo
 Example:
 Example: Generate subsets by choosing whether to include each element.
 
+
+========================================
+RECURSION THEORY: Recursion for Subsets
+========================================
+
+Explanation:
+Every element in a subset problem generally creates two choices: include the element or exclude it. Recursion explores both possibilities.
+
+Example:
+Example: [1,2] produces [], [1], [2], and [1,2].
+
