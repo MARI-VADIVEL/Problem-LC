@@ -537,3 +537,14 @@ Recursive solutions must handle empty input, the smallest valid input, invalid i
 Example:
 Example: A recursive array function should stop when the index reaches the array length.
 
+
+========================================
+RECURSION THEORY: Recursion Problem Solving Pattern
+========================================
+
+Explanation:
+A reliable way to design recursion is to define the function's meaning, identify the base case, determine the smaller subproblem, and combine its result.
+
+Example:
+Example: Define solve(n) clearly before deciding how solve(n-1) contributes to the answer.
+
