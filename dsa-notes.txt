@@ -1053,3 +1053,14 @@ The 0/1 Knapsack problem chooses items with given weights and values while respe
 Example:
 Example: DP can decide whether including an item produces a better value.
 
+
+========================================
+DSA TOPIC: Longest Common Subsequence
+========================================
+
+Explanation:
+Longest Common Subsequence finds the longest sequence that appears in two strings while preserving character order. Dynamic programming is commonly used.
+
+Example:
+Example: LCS of "abcde" and "ace" is "ace".
+
