@@ -438,3 +438,14 @@ A graph consists of vertices and edges that represent relationships between obje
 Example:
 Example: Cities can be represented as vertices and roads as edges.
 
+
+========================================
+DSA TOPIC: Adjacency List
+========================================
+
+Explanation:
+An adjacency list stores the neighbors of every graph vertex. It is memory efficient for sparse graphs and is commonly used with BFS and DFS.
+
+Example:
+Example: If 1 connects to 2 and 3, the list for 1 contains 2 and 3.
+
