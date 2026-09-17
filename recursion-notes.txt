@@ -108,3 +108,14 @@ Tree recursion occurs when a function makes more than one recursive call, causin
 Example:
 Example: Naive Fibonacci calls fibonacci(n-1) and fibonacci(n-2).
 
+
+========================================
+RECURSION THEORY: Linear Recursion
+========================================
+
+Explanation:
+Linear recursion means each function call makes at most one recursive call. The call structure forms a single chain.
+
+Example:
+Example: Factorial creates one recursive call for each smaller value.
+
