@@ -251,3 +251,14 @@ The sum of an array can be calculated recursively by adding the current element 
 Example:
 Example: [1,2,3] can be calculated as 1 + sum([2,3]).
 
+
+========================================
+RECURSION THEORY: Recursive Maximum
+========================================
+
+Explanation:
+The maximum value of an array can be found recursively by comparing the current element with the maximum of the remaining elements.
+
+Example:
+Example: [4,7,2] compares 4 with the maximum of [7,2].
+
