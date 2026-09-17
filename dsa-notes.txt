@@ -823,3 +823,14 @@ A max-heap keeps the largest value at the root. It is useful when repeatedly ret
 Example:
 Example: A priority queue can use a max-heap to process the highest-priority value first.
 
+
+========================================
+DSA TOPIC: Priority Queue
+========================================
+
+Explanation:
+A priority queue processes elements according to priority rather than insertion order. Heap structures are commonly used to implement priority queues efficiently.
+
+Example:
+Example: A task with higher priority can be removed before an older low-priority task.
+
