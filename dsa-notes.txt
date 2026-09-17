@@ -1185,3 +1185,14 @@ O(n!) occurs when an algorithm generates every possible permutation of n element
 Example:
 Example: Generating all permutations of n distinct elements requires n! arrangements.
 
+
+========================================
+BIG O TOPIC: Best Case Complexity
+========================================
+
+Explanation:
+Best-case complexity describes the minimum amount of work an algorithm can perform for an input of a particular size.
+
+Example:
+Example: Linear search has O(1) best-case time when the target is the first element.
+
