@@ -548,3 +548,14 @@ Important edge cases include an empty list, a single-node list, insertion at the
 Example:
 Example: Reversing an empty or one-node list should leave it unchanged.
 
+
+========================================
+LINKED LIST THEORY: Linked List Interview Pattern
+========================================
+
+Explanation:
+Common linked-list problem-solving patterns include dummy nodes, fast and slow pointers, two pointers, reversal, recursion, and careful reference manipulation.
+
+Example:
+Example: Combining fast-slow pointers with reversal solves many advanced linked-list problems.
+
