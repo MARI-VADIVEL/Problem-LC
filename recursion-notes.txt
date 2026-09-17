@@ -229,3 +229,14 @@ A palindrome can be checked recursively by comparing characters at both ends and
 Example:
 Example: "level" compares l with l, then e with e.
 
+
+========================================
+RECURSION THEORY: Recursive Array Traversal
+========================================
+
+Explanation:
+An array can be traversed recursively by processing one index and calling the function for the next index.
+
+Example:
+Example: process index 0, then index 1, then continue until the array ends.
+
