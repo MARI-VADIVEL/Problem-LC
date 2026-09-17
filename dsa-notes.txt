@@ -218,3 +218,14 @@ A palindrome is a sequence that reads the same from both directions. A common me
 Example:
 Example: "level" is a palindrome because it reads the same forward and backward.
 
+
+========================================
+DSA TOPIC: Anagram
+========================================
+
+Explanation:
+Two strings are anagrams when they contain the same characters with the same frequencies, possibly in different orders. Frequency arrays or hash maps can be used to check anagrams.
+
+Example:
+Example: "listen" and "silent" are anagrams.
+
