@@ -97,3 +97,14 @@ A circular doubly linked list combines backward and forward links with circular 
 Example:
 Example: 10 <-> 20 <-> 30 where the ends are connected.
 
+
+========================================
+LINKED LIST THEORY: Linked List Memory
+========================================
+
+Explanation:
+Linked-list nodes can be stored at different memory locations. References connect these locations to create the logical sequence.
+
+Example:
+Example: Nodes may physically be separated in memory while logically representing 10 -> 20 -> 30.
+
