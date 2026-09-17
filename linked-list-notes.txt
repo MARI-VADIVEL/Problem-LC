@@ -42,3 +42,14 @@ The tail is the last node in a linked list. Its next reference is null in a stan
 Example:
 Example: In 10 -> 20 -> 30 -> null, 30 is the tail.
 
+
+========================================
+LINKED LIST THEORY: Next Pointer
+========================================
+
+Explanation:
+The next pointer stores the reference to the next node. It allows individual nodes to form a connected sequence.
+
+Example:
+Example: If node 10 points to node 20, then node10.next refers to node20.
+
