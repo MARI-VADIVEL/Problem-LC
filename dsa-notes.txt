@@ -977,3 +977,14 @@ Disjoint Set Union maintains groups of connected elements. It supports union and
 Example:
 Example: DSU can determine whether two vertices belong to the same connected component.
 
+
+========================================
+DSA TOPIC: Union Find Path Compression
+========================================
+
+Explanation:
+Path compression makes future find operations faster by connecting visited nodes directly to the representative of their set.
+
+Example:
+Example: A long parent chain becomes much flatter after a find operation.
+
