@@ -581,3 +581,14 @@ A difference array stores changes between consecutive elements. It allows multip
 Example:
 Example: Adding 5 to a range can be represented by changing only the range boundaries.
 
+
+========================================
+DSA TOPIC: Dutch National Flag
+========================================
+
+Explanation:
+The Dutch National Flag algorithm partitions an array containing three different values into three sections. It uses multiple pointers and processes the array in O(n) time.
+
+Example:
+Example: [2,0,1,2,1,0] can be rearranged into [0,0,1,1,2,2].
+
