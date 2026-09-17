@@ -273,3 +273,14 @@ Recursive linear search checks one position at a time and recursively searches t
 Example:
 Example: Search index 0, then index 1, and continue until the target is found.
 
+
+========================================
+RECURSION THEORY: Recursive Binary Search
+========================================
+
+Explanation:
+Recursive binary search divides a sorted array's search range into two halves and continues only in the half that can contain the target.
+
+Example:
+Example: The middle value determines whether to search left or right.
+
