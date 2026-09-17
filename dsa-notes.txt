@@ -834,3 +834,14 @@ A priority queue processes elements according to priority rather than insertion 
 Example:
 Example: A task with higher priority can be removed before an older low-priority task.
 
+
+========================================
+DSA TOPIC: Heap Sort
+========================================
+
+Explanation:
+Heap sort builds a heap and repeatedly extracts the appropriate extreme element. Its time complexity is O(n log n) and it can be performed with O(1) auxiliary space.
+
+Example:
+Example: A max-heap can repeatedly move the largest element to the end.
+
