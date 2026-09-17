@@ -42,3 +42,14 @@ Sliding window maintains a range of elements while moving through an array or st
 Example:
 Example: For a fixed window size of 3, move the window one position at a time while updating its sum.
 
+
+========================================
+DSA TOPIC: Prefix Sum
+========================================
+
+Explanation:
+A prefix sum stores cumulative sums of an array. It allows range-sum queries to be answered quickly after preprocessing. Building the prefix array takes O(n) time.
+
+Example:
+Example: For [2,4,6], the prefix sums are [2,6,12].
+
