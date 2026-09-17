@@ -317,3 +317,14 @@ Recursive linked-list reversal processes the remaining nodes first and then conn
 Example:
 Example: 1 -> 2 -> 3 becomes 3 -> 2 -> 1.
 
+
+========================================
+RECURSION THEORY: Recursion With Trees
+========================================
+
+Explanation:
+Trees are naturally recursive because each subtree is itself a smaller tree. Tree algorithms commonly call themselves on left and right children.
+
+Example:
+Example: A binary tree traversal recursively processes the left and right subtrees.
+
