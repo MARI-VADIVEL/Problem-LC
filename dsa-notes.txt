@@ -647,3 +647,14 @@ When multiple stock transactions are allowed, every positive increase between co
 Example:
 Example: [1,5,3,6] gives profit from 1 to 5 and 3 to 6.
 
+
+========================================
+DSA TOPIC: Merge Intervals
+========================================
+
+Explanation:
+Merge intervals combines overlapping ranges into larger non-overlapping ranges. Intervals are usually sorted by starting position before processing.
+
+Example:
+Example: [1,3] and [2,6] merge into [1,6].
+
