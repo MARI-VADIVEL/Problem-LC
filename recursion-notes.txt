@@ -405,3 +405,14 @@ Every element in a subset problem generally creates two choices: include the ele
 Example:
 Example: [1,2] produces [], [1], [2], and [1,2].
 
+
+========================================
+RECURSION THEORY: Recursion for Permutations
+========================================
+
+Explanation:
+Permutation generation uses recursion to place one unused element at a time until every position is filled.
+
+Example:
+Example: [1,2,3] generates arrangements such as 123, 132, 213, and others.
+
