@@ -1284,3 +1284,14 @@ When one loop runs n times and another loop runs n times for every iteration of 
 Example:
 Example: A pairwise comparison of all array elements uses nested loops.
 
+
+========================================
+BIG O TOPIC: Three Nested Loops
+========================================
+
+Explanation:
+Three nested loops each running n times result in O(n^3) time complexity.
+
+Example:
+Example: Checking every combination of three indices can require n^3 operations.
+
