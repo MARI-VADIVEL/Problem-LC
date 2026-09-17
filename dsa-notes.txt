@@ -1196,3 +1196,14 @@ Best-case complexity describes the minimum amount of work an algorithm can perfo
 Example:
 Example: Linear search has O(1) best-case time when the target is the first element.
 
+
+========================================
+BIG O TOPIC: Worst Case Complexity
+========================================
+
+Explanation:
+Worst-case complexity describes the maximum amount of work an algorithm may perform for an input size.
+
+Example:
+Example: Linear search has O(n) worst-case time when the target is absent or at the end.
+
