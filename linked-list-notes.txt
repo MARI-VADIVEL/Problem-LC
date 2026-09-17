@@ -504,3 +504,14 @@ Linked-list operations mainly involve changing references between nodes. Careful
 Example:
 Example: Save current.next before redirecting current.next during reversal.
 
+
+========================================
+LINKED LIST THEORY: Linked List Recursion
+========================================
+
+Explanation:
+Recursion can naturally process linked lists because every node points to a smaller remaining list. The recursive call handles the next nodes before returning.
+
+Example:
+Example: A recursive traversal can print nodes from head to tail.
+
