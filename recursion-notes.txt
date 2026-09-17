@@ -174,3 +174,14 @@ Fibonacci defines each number using the two previous numbers. The naive recursiv
 Example:
 Example: fib(5) = fib(4) + fib(3).
 
+
+========================================
+RECURSION THEORY: Fibonacci Optimization
+========================================
+
+Explanation:
+The repeated work in recursive Fibonacci can be avoided using memoization or dynamic programming. This reduces the time from exponential to linear when each state is calculated once.
+
+Example:
+Example: Store fib(0) through fib(n) so each value is computed once.
+
