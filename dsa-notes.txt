@@ -1514,3 +1514,14 @@ Heap sort builds and maintains a heap while repeatedly extracting elements. Its 
 Example:
 Example: Each extraction requires logarithmic heap adjustment.
 
+
+========================================
+BIG O TOPIC: BFS Complexity
+========================================
+
+Explanation:
+Breadth-first search visits each vertex and edge at most a limited number of times. With an adjacency list, its complexity is O(V+E).
+
+Example:
+Example: BFS explores a graph using a queue.
+
