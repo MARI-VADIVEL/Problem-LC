@@ -922,3 +922,14 @@ A directed graph cycle can be detected using DFS with a recursion-stack state. F
 Example:
 Example: A -> B -> C -> A creates a directed cycle.
 
+
+========================================
+DSA TOPIC: Topological Sort Kahn
+========================================
+
+Explanation:
+Kahn's algorithm performs topological sorting using indegrees and a queue. Vertices with zero indegree are processed first.
+
+Example:
+Example: A task with no remaining prerequisites can be added to the ordering.
+
