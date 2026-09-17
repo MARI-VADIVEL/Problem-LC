@@ -196,3 +196,14 @@ A string is a sequence of characters. Strings are widely used in pattern matchin
 Example:
 Example: String s = "hello" contains five characters.
 
+
+========================================
+DSA TOPIC: StringBuilder
+========================================
+
+Explanation:
+StringBuilder is used to create and modify strings efficiently. Unlike String, it is mutable, so repeated modifications do not require creating many new String objects.
+
+Example:
+Example: StringBuilder can append characters repeatedly while constructing a result.
+
