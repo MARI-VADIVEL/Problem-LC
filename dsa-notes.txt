@@ -933,3 +933,14 @@ Kahn's algorithm performs topological sorting using indegrees and a queue. Verti
 Example:
 Example: A task with no remaining prerequisites can be added to the ordering.
 
+
+========================================
+DSA TOPIC: Dijkstra Algorithm
+========================================
+
+Explanation:
+Dijkstra's algorithm finds shortest paths from a source in a graph with non-negative edge weights. A priority queue is commonly used to select the next closest vertex.
+
+Example:
+Example: Road networks with non-negative travel distances can use Dijkstra's algorithm.
+
