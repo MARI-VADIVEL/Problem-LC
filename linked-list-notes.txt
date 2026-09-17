@@ -218,3 +218,14 @@ Updating a linked-list node means changing the data stored in an existing node. 
 Example:
 Example: 20 can be changed to 25 without changing the links.
 
+
+========================================
+LINKED LIST THEORY: Reverse Linked List Theory
+========================================
+
+Explanation:
+Reversing a linked list means changing the direction of every next reference. The original head becomes the new tail and the original tail becomes the new head.
+
+Example:
+Example: 10 -> 20 -> 30 becomes 30 -> 20 -> 10.
+
