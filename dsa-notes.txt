@@ -1338,3 +1338,14 @@ Lower-order terms become less significant as n becomes very large, so they are r
 Example:
 Example: O(n^2+n) becomes O(n^2).
 
+
+========================================
+BIG O TOPIC: Loop With Doubling
+========================================
+
+Explanation:
+A loop that doubles its variable each iteration runs logarithmically because the number of doublings needed to reach n is log n.
+
+Example:
+Example: i starts at 1 and changes to i*2 until it reaches n.
+
