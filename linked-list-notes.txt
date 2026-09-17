@@ -482,3 +482,14 @@ Linked-list nodes are commonly created dynamically. Each node stores its data al
 Example:
 Example: Creating a new node allocates memory for its value and next reference.
 
+
+========================================
+LINKED LIST THEORY: Garbage Collection
+========================================
+
+Explanation:
+When a linked-list node is no longer reachable by any reference, a garbage-collected language such as Java can eventually reclaim its memory.
+
+Example:
+Example: Removing a node from the list can make it unreachable if no other reference points to it.
+
