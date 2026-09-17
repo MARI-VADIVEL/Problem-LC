@@ -108,3 +108,14 @@ Linked-list nodes can be stored at different memory locations. References connec
 Example:
 Example: Nodes may physically be separated in memory while logically representing 10 -> 20 -> 30.
 
+
+========================================
+LINKED LIST THEORY: Linked List Traversal
+========================================
+
+Explanation:
+Traversal means starting at the head and following next references until the required node or the end of the list is reached.
+
+Example:
+Example: To find 30 in 10 -> 20 -> 30, visit 10, then 20, then 30.
+
