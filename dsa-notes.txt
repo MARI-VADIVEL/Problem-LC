@@ -339,3 +339,14 @@ A deque, or double-ended queue, allows insertion and deletion from both ends. It
 Example:
 Example: Elements can be added or removed from either the front or the back.
 
+
+========================================
+DSA TOPIC: Recursion
+========================================
+
+Explanation:
+Recursion occurs when a function calls itself to solve smaller versions of the same problem. Every recursive solution needs a base case to stop the calls.
+
+Example:
+Example: Factorial of n can be defined as n multiplied by factorial of n-1.
+
