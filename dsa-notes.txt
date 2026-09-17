@@ -944,3 +944,14 @@ Dijkstra's algorithm finds shortest paths from a source in a graph with non-nega
 Example:
 Example: Road networks with non-negative travel distances can use Dijkstra's algorithm.
 
+
+========================================
+DSA TOPIC: Bellman Ford
+========================================
+
+Explanation:
+Bellman-Ford finds shortest paths even when some edges have negative weights. It repeatedly relaxes all edges and can detect reachable negative cycles.
+
+Example:
+Example: An edge with weight -2 can be handled by Bellman-Ford.
+
