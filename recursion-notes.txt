@@ -64,3 +64,14 @@ Direct recursion occurs when a function directly calls itself.
 Example:
 Example: function f() calls f() again inside its own body.
 
+
+========================================
+RECURSION THEORY: Indirect Recursion
+========================================
+
+Explanation:
+Indirect recursion occurs when one function calls another function and that second function eventually calls the first function again.
+
+Example:
+Example: function A calls B, and B calls A.
+
