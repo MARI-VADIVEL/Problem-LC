@@ -1042,3 +1042,14 @@ The climbing stairs problem asks how many ways a person can reach the top when t
 Example:
 Example: The number of ways to reach step n depends on the ways to reach n-1 and n-2.
 
+
+========================================
+DSA TOPIC: 0/1 Knapsack
+========================================
+
+Explanation:
+The 0/1 Knapsack problem chooses items with given weights and values while respecting a capacity limit. Each item can be selected at most once.
+
+Example:
+Example: DP can decide whether including an item produces a better value.
+
