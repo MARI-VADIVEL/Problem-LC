@@ -878,3 +878,14 @@ Graph BFS explores vertices level by level using a queue. A visited structure pr
 Example:
 Example: Starting at vertex A, BFS processes all directly connected vertices before moving farther.
 
+
+========================================
+DSA TOPIC: Graph DFS
+========================================
+
+Explanation:
+Graph DFS explores one path deeply before backtracking. It can be implemented recursively or using a stack.
+
+Example:
+Example: DFS can completely explore one branch before returning to another branch.
+
