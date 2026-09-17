@@ -163,3 +163,14 @@ A number can be raised to a power recursively by multiplying the base by the res
 Example:
 Example: power(2,4) = 2 × power(2,3).
 
+
+========================================
+RECURSION THEORY: Recursive Fibonacci
+========================================
+
+Explanation:
+Fibonacci defines each number using the two previous numbers. The naive recursive implementation creates many repeated calls and has exponential time complexity.
+
+Example:
+Example: fib(5) = fib(4) + fib(3).
+
