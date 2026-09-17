@@ -1349,3 +1349,14 @@ A loop that doubles its variable each iteration runs logarithmically because the
 Example:
 Example: i starts at 1 and changes to i*2 until it reaches n.
 
+
+========================================
+BIG O TOPIC: Loop With Halving
+========================================
+
+Explanation:
+A loop that repeatedly halves a value also has O(log n) iterations.
+
+Example:
+Example: Binary search reduces the remaining search range by half.
+
