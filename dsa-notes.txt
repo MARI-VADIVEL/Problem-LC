@@ -493,3 +493,14 @@ Tabulation is a bottom-up dynamic programming technique. It starts with smaller 
 Example:
 Example: A DP array can store Fibonacci values from 0 up to n.
 
+
+========================================
+DSA TOPIC: Greedy Algorithm
+========================================
+
+Explanation:
+A greedy algorithm makes the best-looking local choice at each step with the goal of producing an optimal solution. Greedy methods work only when the problem has the required properties.
+
+Example:
+Example: Selecting activities with the earliest finishing time is a classic greedy strategy.
+
