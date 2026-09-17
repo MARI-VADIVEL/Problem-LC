@@ -383,3 +383,14 @@ A permutation represents an arrangement of elements in a particular order. Backt
 Example:
 Example: [1,2,3] has permutations such as [1,2,3] and [3,2,1].
 
+
+========================================
+DSA TOPIC: Binary Tree
+========================================
+
+Explanation:
+A binary tree is a hierarchical data structure where each node can have at most two children called left and right.
+
+Example:
+Example: A root node 10 can have children 5 and 15.
+
