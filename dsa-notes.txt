@@ -1141,3 +1141,14 @@ O(n log n) commonly appears when an algorithm divides the input into levels and 
 Example:
 Example: Merge sort has O(n log n) time complexity.
 
+
+========================================
+BIG O TOPIC: O(n^2) Quadratic Time
+========================================
+
+Explanation:
+O(n^2) means the work grows approximately with the square of the input size. It commonly occurs with two nested loops.
+
+Example:
+Example: Comparing every pair of elements can require O(n^2) operations.
+
