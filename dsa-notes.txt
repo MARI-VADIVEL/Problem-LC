@@ -1525,3 +1525,14 @@ Breadth-first search visits each vertex and edge at most a limited number of tim
 Example:
 Example: BFS explores a graph using a queue.
 
+
+========================================
+BIG O TOPIC: DFS Complexity
+========================================
+
+Explanation:
+Depth-first search visits graph vertices and edges systematically. With an adjacency list, its time complexity is O(V+E).
+
+Example:
+Example: DFS recursively explores neighboring vertices.
+
