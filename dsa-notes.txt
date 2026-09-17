@@ -1569,3 +1569,14 @@ Memoization stores results for previously solved states. If there are n unique s
 Example:
 Example: Memoized Fibonacci avoids repeatedly calculating the same values.
 
+
+========================================
+BIG O TOPIC: Dynamic Programming Complexity
+========================================
+
+Explanation:
+Dynamic programming often trades additional memory for reduced computation by storing solutions to overlapping subproblems.
+
+Example:
+Example: A one-dimensional DP array can reduce repeated Fibonacci calculations to O(n) time.
+
