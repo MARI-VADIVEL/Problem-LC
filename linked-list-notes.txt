@@ -196,3 +196,14 @@ Deleting the last node in a singly linked list usually requires finding the node
 Example:
 Example: 10 -> 20 -> 30 becomes 10 -> 20.
 
+
+========================================
+LINKED LIST THEORY: Delete At Position
+========================================
+
+Explanation:
+Deleting a node at a specific position requires reaching the previous node and changing its next reference to skip the target node.
+
+Example:
+Example: 10 -> 20 -> 30 becomes 10 -> 30 when 20 is removed.
+
