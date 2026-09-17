@@ -1327,3 +1327,14 @@ Big O ignores constant multipliers because they do not change the growth categor
 Example:
 Example: O(5n) is represented as O(n).
 
+
+========================================
+BIG O TOPIC: Ignoring Lower Terms
+========================================
+
+Explanation:
+Lower-order terms become less significant as n becomes very large, so they are removed from the final Big O expression.
+
+Example:
+Example: O(n^2+n) becomes O(n^2).
+
