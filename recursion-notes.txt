@@ -130,3 +130,14 @@ Divide and conquer divides a problem into smaller subproblems, solves them recur
 Example:
 Example: Merge sort divides an array into halves, recursively sorts them, and merges them.
 
+
+========================================
+RECURSION THEORY: Recursive Factorial
+========================================
+
+Explanation:
+Factorial of n is the product of all positive integers from 1 to n. Recursion represents it as n multiplied by factorial of n-1.
+
+Example:
+Example: 5! = 5 × 4 × 3 × 2 × 1 = 120.
+
