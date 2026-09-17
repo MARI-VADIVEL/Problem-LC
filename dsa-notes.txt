@@ -603,3 +603,14 @@ A majority element is an element that appears more than half of the array length
 Example:
 Example: In [2,2,1,2,3,2,2], the majority element is 2.
 
+
+========================================
+DSA TOPIC: Moore Voting Algorithm
+========================================
+
+Explanation:
+Moore's Voting Algorithm maintains a candidate and a counter. Equal values increase the counter while different values decrease it. The remaining candidate can be verified afterward.
+
+Example:
+Example: Repeated occurrences of a majority value allow its counter to survive other values.
+
