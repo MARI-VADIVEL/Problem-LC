@@ -185,3 +185,14 @@ The repeated work in recursive Fibonacci can be avoided using memoization or dyn
 Example:
 Example: Store fib(0) through fib(n) so each value is computed once.
 
+
+========================================
+RECURSION THEORY: Recursive Countdown
+========================================
+
+Explanation:
+A countdown is a simple example of recursion where the input decreases on every call until a base case is reached.
+
+Example:
+Example: countdown(3) processes 3, 2, 1, then stops.
+
