@@ -1119,3 +1119,14 @@ O(log n) means the problem size is reduced by a constant factor during each step
 Example:
 Example: Binary search repeatedly divides the search space into half.
 
+
+========================================
+BIG O TOPIC: O(n) Linear Time
+========================================
+
+Explanation:
+O(n) means the running time grows directly with the input size. If the input doubles, the number of operations generally doubles.
+
+Example:
+Example: Traversing all elements of an array requires O(n) time.
+
