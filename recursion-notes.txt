@@ -361,3 +361,14 @@ Postorder traversal processes both child subtrees before processing the root.
 Example:
 Example: The order is Left -> Right -> Root.
 
+
+========================================
+RECURSION THEORY: Tree Height Recursion
+========================================
+
+Explanation:
+The height of a binary tree can be calculated recursively by finding the heights of both subtrees and taking the larger one.
+
+Example:
+Example: height = 1 + max(leftHeight,rightHeight).
+
