@@ -361,3 +361,14 @@ Two linked lists intersect when their nodes share the same physical node referen
 Example:
 Example: Both lists can eventually point to the same node containing 8.
 
+
+========================================
+LINKED LIST THEORY: Intersection Using Two Pointers
+========================================
+
+Explanation:
+Two-pointer intersection can switch each pointer to the other list after reaching the end. This equalizes the total distance traveled by both pointers.
+
+Example:
+Example: Pointer A traverses list A then list B while pointer B traverses list B then list A.
+
