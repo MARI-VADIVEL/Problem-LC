@@ -1064,3 +1064,14 @@ Longest Common Subsequence finds the longest sequence that appears in two string
 Example:
 Example: LCS of "abcde" and "ace" is "ace".
 
+
+========================================
+DSA TOPIC: Longest Increasing Subsequence
+========================================
+
+Explanation:
+Longest Increasing Subsequence finds the longest subsequence whose values are strictly increasing. It can be solved using dynamic programming or an O(n log n) technique.
+
+Example:
+Example: In [10,9,2,5,3,7,101,18], one LIS is [2,3,7,101].
+
