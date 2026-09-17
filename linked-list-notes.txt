@@ -86,3 +86,14 @@ In a circular linked list, the last node points back to an earlier node, commonl
 Example:
 Example: 10 -> 20 -> 30 -> 10
 
+
+========================================
+LINKED LIST THEORY: Circular Doubly Linked List
+========================================
+
+Explanation:
+A circular doubly linked list combines backward and forward links with circular connections. The tail points to the head and the head points back to the tail.
+
+Example:
+Example: 10 <-> 20 <-> 30 where the ends are connected.
+
