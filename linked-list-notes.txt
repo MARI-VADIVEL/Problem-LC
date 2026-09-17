@@ -20,3 +20,14 @@ A node is the basic building block of a linked list. In a singly linked list, a 
 Example:
 Example: A node containing 10 can point to the node containing 20.
 
+
+========================================
+LINKED LIST THEORY: Head
+========================================
+
+Explanation:
+The head is a reference to the first node of a linked list. It is the starting point for traversing the list.
+
+Example:
+Example: head -> 10 -> 20 -> 30 -> null
+
