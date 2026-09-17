@@ -350,3 +350,14 @@ Recursion occurs when a function calls itself to solve smaller versions of the s
 Example:
 Example: Factorial of n can be defined as n multiplied by factorial of n-1.
 
+
+========================================
+DSA TOPIC: Backtracking
+========================================
+
+Explanation:
+Backtracking builds a solution step by step and removes a choice when that choice cannot lead to a valid solution. It is commonly used for subsets, permutations, combinations, and constraint problems.
+
+Example:
+Example: Generate a subset, explore it, then remove the selected element before trying another choice.
+
