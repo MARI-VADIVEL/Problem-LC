@@ -1273,3 +1273,14 @@ Two loops executed one after another both depending on n still produce O(n) over
 Example:
 Example: Two separate traversals of an array take O(n)+O(n), which simplifies to O(n).
 
+
+========================================
+BIG O TOPIC: Nested Loops
+========================================
+
+Explanation:
+When one loop runs n times and another loop runs n times for every iteration of the first, the total work is O(n^2).
+
+Example:
+Example: A pairwise comparison of all array elements uses nested loops.
+
