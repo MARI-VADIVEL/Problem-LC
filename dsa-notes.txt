@@ -9,3 +9,14 @@ An array is a linear data structure that stores elements in contiguous memory lo
 Example:
 Example: int[] arr = {10,20,30,40}; arr[2] gives 30.
 
+
+========================================
+DSA TOPIC: Array Traversal
+========================================
+
+Explanation:
+Array traversal means visiting every element of an array one by one. A loop is commonly used to process each element. The operation takes O(n) time because every element may need to be visited.
+
+Example:
+Example: for each element in [10,20,30], process 10, then 20, then 30.
+
