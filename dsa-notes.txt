@@ -515,3 +515,14 @@ Time complexity describes how the running time of an algorithm grows as the inpu
 Example:
 Example: A single loop over n elements normally has O(n) time complexity.
 
+
+========================================
+DSA TOPIC: Space Complexity
+========================================
+
+Explanation:
+Space complexity describes the extra memory required by an algorithm as input size grows. It includes data structures, recursion stack usage, and other auxiliary memory.
+
+Example:
+Example: An algorithm using only a few variables has O(1) auxiliary space.
+
