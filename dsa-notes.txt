@@ -1580,3 +1580,14 @@ Dynamic programming often trades additional memory for reduced computation by st
 Example:
 Example: A one-dimensional DP array can reduce repeated Fibonacci calculations to O(n) time.
 
+
+========================================
+BIG O TOPIC: Amortized Complexity
+========================================
+
+Explanation:
+Amortized analysis considers the total cost of a sequence of operations rather than the cost of one operation. Some individual operations may be expensive while the average cost remains small.
+
+Example:
+Example: Dynamic array insertion is amortized O(1) even though occasional resizing costs O(n).
+
