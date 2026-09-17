@@ -1306,3 +1306,13 @@ When multiple operations are performed one after another, their complexities are
 Example:
 Example: O(n)+O(n^2) simplifies to O(n^2).
 
+
+========================================
+BIG O TOPIC: Dominant Term Rule
+========================================
+
+Explanation:
+When simplifying Big O, lower-order terms and constant factors are ignored because the fastest-growing term dominates for large input sizes.
+
+Example:
+Example: O(n^2+n+10) becomes O(n^2).
