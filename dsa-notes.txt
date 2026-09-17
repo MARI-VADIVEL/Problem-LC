@@ -548,3 +548,14 @@ A suffix maximum stores the largest value from each position to the end of an ar
 Example:
 Example: For [3,1,5,2], suffix maximum values are [5,5,5,2].
 
+
+========================================
+DSA TOPIC: Prefix Minimum
+========================================
+
+Explanation:
+A prefix minimum stores the smallest value encountered from the beginning up to each index. It helps answer minimum-value queries efficiently.
+
+Example:
+Example: For [4,2,5,1], prefix minimum values are [4,2,2,1].
+
