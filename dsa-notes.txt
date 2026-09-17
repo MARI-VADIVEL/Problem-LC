@@ -999,3 +999,14 @@ A recursion tree represents the recursive calls made by an algorithm. It helps u
 Example:
 Example: Merge sort creates two recursive branches at each level.
 
+
+========================================
+DSA TOPIC: Base Case
+========================================
+
+Explanation:
+A base case is the condition that stops recursive execution. Without a correct base case, recursion may continue indefinitely.
+
+Example:
+Example: Factorial recursion stops when n reaches 0 or 1.
+
