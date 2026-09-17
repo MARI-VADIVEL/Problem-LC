@@ -119,3 +119,14 @@ Traversal means starting at the head and following next references until the req
 Example:
 Example: To find 30 in 10 -> 20 -> 30, visit 10, then 20, then 30.
 
+
+========================================
+LINKED LIST THEORY: Linked List Search
+========================================
+
+Explanation:
+Searching a linked list normally requires sequential traversal because nodes do not support direct index-based access.
+
+Example:
+Example: Finding the fifth node requires moving through previous nodes.
+
