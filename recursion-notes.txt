@@ -119,3 +119,14 @@ Linear recursion means each function call makes at most one recursive call. The 
 Example:
 Example: Factorial creates one recursive call for each smaller value.
 
+
+========================================
+RECURSION THEORY: Divide and Conquer
+========================================
+
+Explanation:
+Divide and conquer divides a problem into smaller subproblems, solves them recursively, and combines their results.
+
+Example:
+Example: Merge sort divides an array into halves, recursively sorts them, and merges them.
+
