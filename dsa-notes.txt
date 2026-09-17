@@ -1295,3 +1295,14 @@ Three nested loops each running n times result in O(n^3) time complexity.
 Example:
 Example: Checking every combination of three indices can require n^3 operations.
 
+
+========================================
+BIG O TOPIC: Sequential Complexity
+========================================
+
+Explanation:
+When multiple operations are performed one after another, their complexities are added and the dominant growth term is retained.
+
+Example:
+Example: O(n)+O(n^2) simplifies to O(n^2).
+
