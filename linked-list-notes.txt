@@ -31,3 +31,14 @@ The head is a reference to the first node of a linked list. It is the starting p
 Example:
 Example: head -> 10 -> 20 -> 30 -> null
 
+
+========================================
+LINKED LIST THEORY: Tail
+========================================
+
+Explanation:
+The tail is the last node in a linked list. Its next reference is null in a standard singly linked list.
+
+Example:
+Example: In 10 -> 20 -> 30 -> null, 30 is the tail.
+
