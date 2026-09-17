@@ -218,3 +218,14 @@ A string can be reversed recursively by processing the remaining substring and t
 Example:
 Example: "abc" becomes "cba".
 
+
+========================================
+RECURSION THEORY: Palindrome Recursion
+========================================
+
+Explanation:
+A palindrome can be checked recursively by comparing characters at both ends and then checking the smaller inner range.
+
+Example:
+Example: "level" compares l with l, then e with e.
+
