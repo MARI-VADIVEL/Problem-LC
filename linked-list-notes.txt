@@ -64,3 +64,14 @@ A singly linked list contains nodes where every node points only to the next nod
 Example:
 Example: 10 -> 20 -> 30 -> null
 
+
+========================================
+LINKED LIST THEORY: Doubly Linked List
+========================================
+
+Explanation:
+A doubly linked list contains two references in each node: previous and next. This allows traversal in both forward and backward directions.
+
+Example:
+Example: null <- 10 <-> 20 <-> 30 -> null
+
