@@ -251,3 +251,14 @@ A linked list consists of nodes where each node stores data and a reference to a
 Example:
 Example: 10 -> 20 -> 30 -> null represents a simple singly linked list.
 
+
+========================================
+DSA TOPIC: Singly Linked List
+========================================
+
+Explanation:
+A singly linked list node contains data and a reference to the next node. Traversal normally starts from the head and moves through next references.
+
+Example:
+Example: head -> 10 -> 20 -> 30 -> null.
+
