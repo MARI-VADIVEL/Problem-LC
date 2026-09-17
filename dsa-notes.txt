@@ -372,3 +372,14 @@ The subset problem generates all possible selections of elements from a collecti
 Example:
 Example: [1,2] has [], [1], [2], and [1,2] as its subsets.
 
+
+========================================
+DSA TOPIC: Permutations
+========================================
+
+Explanation:
+A permutation represents an arrangement of elements in a particular order. Backtracking can choose an unused element at each level and continue until all positions are filled.
+
+Example:
+Example: [1,2,3] has permutations such as [1,2,3] and [3,2,1].
+
