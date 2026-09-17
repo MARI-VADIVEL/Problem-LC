@@ -20,3 +20,14 @@ The base case is the condition that stops recursion. Without a base case, the fu
 Example:
 Example: In factorial, n == 0 can be the base case returning 1.
 
+
+========================================
+RECURSION THEORY: Recursive Case
+========================================
+
+Explanation:
+The recursive case is the part where a function calls itself with a smaller or simpler input.
+
+Example:
+Example: factorial(n) returns n * factorial(n-1).
+
