@@ -207,3 +207,14 @@ A function can count upward by first making a recursive call with a smaller valu
 Example:
 Example: countUp(3) can produce 1, 2, 3.
 
+
+========================================
+RECURSION THEORY: Reverse String Recursively
+========================================
+
+Explanation:
+A string can be reversed recursively by processing the remaining substring and then placing the current character in the appropriate position.
+
+Example:
+Example: "abc" becomes "cba".
+
