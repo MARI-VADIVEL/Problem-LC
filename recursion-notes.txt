@@ -53,3 +53,14 @@ A stack overflow occurs when recursion creates too many active function calls fo
 Example:
 Example: A function that calls itself forever eventually causes StackOverflowError in Java.
 
+
+========================================
+RECURSION THEORY: Direct Recursion
+========================================
+
+Explanation:
+Direct recursion occurs when a function directly calls itself.
+
+Example:
+Example: function f() calls f() again inside its own body.
+
