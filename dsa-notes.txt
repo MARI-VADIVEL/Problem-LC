@@ -1602,3 +1602,14 @@ When a loop performs O(log n) work inside another O(log n) loop, the combined co
 Example:
 Example: Two independent halving processes can produce logarithmic factors.
 
+
+========================================
+BIG O TOPIC: Complexity of Recursion
+========================================
+
+Explanation:
+The complexity of a recursive algorithm depends on the number of recursive calls, work performed per call, and recursion depth.
+
+Example:
+Example: A recursion that creates two calls of size n-1 can grow exponentially.
+
