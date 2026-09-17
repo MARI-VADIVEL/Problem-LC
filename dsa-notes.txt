@@ -86,3 +86,14 @@ Linear search checks elements sequentially until the target is found or the arra
 Example:
 Example: Searching for 30 in [10,20,30,40] checks 10, then 20, then 30.
 
+
+========================================
+DSA TOPIC: Sorting
+========================================
+
+Explanation:
+Sorting arranges data according to a particular order, usually ascending or descending. Sorted data can make searching and other operations easier. Different sorting algorithms have different time and space requirements.
+
+Example:
+Example: [5,2,4,1] becomes [1,2,4,5] in ascending order.
+
