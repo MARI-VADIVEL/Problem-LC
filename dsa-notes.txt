@@ -1,0 +1,11 @@
+
+========================================
+DSA TOPIC: Array
+========================================
+
+Explanation:
+An array is a linear data structure that stores elements in contiguous memory locations. Each element is accessed using an index. The first element is at index 0. Array access is O(1), while searching an unsorted array takes O(n).
+
+Example:
+Example: int[] arr = {10,20,30,40}; arr[2] gives 30.
+
