@@ -9,3 +9,14 @@ A linked list is a linear data structure made up of nodes. Each node stores data
 Example:
 Example: 10 -> 20 -> 30 -> null
 
+
+========================================
+LINKED LIST THEORY: Node
+========================================
+
+Explanation:
+A node is the basic building block of a linked list. In a singly linked list, a node contains data and a reference called next that points to the following node.
+
+Example:
+Example: A node containing 10 can point to the node containing 20.
+
