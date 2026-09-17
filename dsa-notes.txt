@@ -361,3 +361,14 @@ Backtracking builds a solution step by step and removes a choice when that choic
 Example:
 Example: Generate a subset, explore it, then remove the selected element before trying another choice.
 
+
+========================================
+DSA TOPIC: Subsets
+========================================
+
+Explanation:
+The subset problem generates all possible selections of elements from a collection. Backtracking can choose either to include or exclude each element.
+
+Example:
+Example: [1,2] has [], [1], [2], and [1,2] as its subsets.
+
