@@ -394,3 +394,14 @@ Splitting a linked list divides it into separate parts. Slow and fast pointers a
 Example:
 Example: 1 -> 2 -> 3 -> 4 can be split into 1 -> 2 and 3 -> 4.
 
+
+========================================
+LINKED LIST THEORY: Find Nth Node From End
+========================================
+
+Explanation:
+The nth node from the end can be found using two pointers separated by n positions. When the first pointer reaches the end, the second pointer is at the required node.
+
+Example:
+Example: In 1 -> 2 -> 3 -> 4 -> 5, the 2nd node from the end is 4.
+
