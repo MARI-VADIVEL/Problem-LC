@@ -229,3 +229,14 @@ Reversing a linked list means changing the direction of every next reference. Th
 Example:
 Example: 10 -> 20 -> 30 becomes 30 -> 20 -> 10.
 
+
+========================================
+LINKED LIST THEORY: Iterative Reversal
+========================================
+
+Explanation:
+Iterative reversal commonly uses previous, current, and next references. The next reference is saved before changing current.next so that the remaining list is not lost.
+
+Example:
+Example: Each node is gradually redirected toward the previous node.
+
