@@ -713,3 +713,14 @@ A square matrix can be rotated by first transposing it and then reversing each r
 Example:
 Example: A 3x3 matrix can be rotated 90 degrees clockwise using these two operations.
 
+
+========================================
+DSA TOPIC: Spiral Matrix
+========================================
+
+Explanation:
+Spiral traversal visits matrix elements from the outer boundary toward the center. Four boundaries can track the remaining unvisited region.
+
+Example:
+Example: A matrix is traversed top row, right column, bottom row, and left column repeatedly.
+
