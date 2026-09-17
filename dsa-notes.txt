@@ -1613,3 +1613,14 @@ The complexity of a recursive algorithm depends on the number of recursive calls
 Example:
 Example: A recursion that creates two calls of size n-1 can grow exponentially.
 
+
+========================================
+BIG O TOPIC: Big O Growth Comparison
+========================================
+
+Explanation:
+Different complexities grow at very different rates. Constant and logarithmic algorithms scale much better than quadratic, exponential, or factorial algorithms.
+
+Example:
+Example: For large n, O(log n) grows far more slowly than O(n^2).
+
