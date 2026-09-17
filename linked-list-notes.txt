@@ -537,3 +537,14 @@ A linked list can implement a queue efficiently when both head and tail referenc
 Example:
 Example: 10 -> 20 -> 30 removes 10 first under FIFO behavior.
 
+
+========================================
+LINKED LIST THEORY: Linked List Edge Cases
+========================================
+
+Explanation:
+Important edge cases include an empty list, a single-node list, insertion at the head, deletion of the only node, and operations involving the tail.
+
+Example:
+Example: Reversing an empty or one-node list should leave it unchanged.
+
