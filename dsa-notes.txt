@@ -317,3 +317,14 @@ A stack follows the LIFO principle, meaning the last element inserted is the fir
 Example:
 Example: Browser back operations can be modeled using a stack.
 
+
+========================================
+DSA TOPIC: Queue
+========================================
+
+Explanation:
+A queue follows the FIFO principle, meaning the first element inserted is the first one removed. Queues are commonly used in scheduling and BFS traversal.
+
+Example:
+Example: People standing in a line are processed from the front first.
+
