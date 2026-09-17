@@ -757,3 +757,14 @@ BST insertion follows comparisons from the root until an empty position is found
 Example:
 Example: Inserting 7 into a tree containing 10 and 5 places 7 in the right subtree of 5.
 
+
+========================================
+DSA TOPIC: BST Deletion
+========================================
+
+Explanation:
+BST deletion has three main cases: deleting a leaf, deleting a node with one child, and deleting a node with two children. The two-child case commonly uses an inorder successor.
+
+Example:
+Example: The inorder successor is the smallest value in the right subtree.
+
