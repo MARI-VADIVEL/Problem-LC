@@ -372,3 +372,14 @@ The height of a binary tree can be calculated recursively by finding the heights
 Example:
 Example: height = 1 + max(leftHeight,rightHeight).
 
+
+========================================
+RECURSION THEORY: Tree Node Count Recursion
+========================================
+
+Explanation:
+The number of nodes in a binary tree can be found by recursively counting nodes in the left and right subtrees and adding one for the current node.
+
+Example:
+Example: count = 1 + leftCount + rightCount.
+
