@@ -779,3 +779,14 @@ The height of a tree represents the longest path from the root to a leaf, depend
 Example:
 Example: A tree with three levels has height 2 when height is counted by edges.
 
+
+========================================
+DSA TOPIC: Balanced Binary Tree
+========================================
+
+Explanation:
+A balanced binary tree keeps subtree heights reasonably close so operations remain efficient. Large height differences can make tree operations approach O(n).
+
+Example:
+Example: A balanced tree divides values across left and right subtrees.
+
