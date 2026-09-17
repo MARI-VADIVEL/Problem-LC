@@ -867,3 +867,14 @@ Trie prefix search checks whether any stored word begins with a given prefix. Ch
 Example:
 Example: Searching prefix "app" can find words such as "apple" and "application".
 
+
+========================================
+DSA TOPIC: Graph BFS
+========================================
+
+Explanation:
+Graph BFS explores vertices level by level using a queue. A visited structure prevents processing the same vertex repeatedly.
+
+Example:
+Example: Starting at vertex A, BFS processes all directly connected vertices before moving farther.
+
