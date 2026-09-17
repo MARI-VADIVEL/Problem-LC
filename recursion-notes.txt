@@ -339,3 +339,14 @@ Preorder traversal visits the root first, then recursively visits the left subtr
 Example:
 Example: The order is Root -> Left -> Right.
 
+
+========================================
+RECURSION THEORY: Inorder Recursion
+========================================
+
+Explanation:
+Inorder traversal recursively visits the left subtree, processes the root, and then visits the right subtree.
+
+Example:
+Example: The order is Left -> Root -> Right.
+
