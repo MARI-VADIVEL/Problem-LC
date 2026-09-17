@@ -1240,3 +1240,14 @@ Auxiliary space refers to extra memory used by an algorithm excluding the memory
 Example:
 Example: Reversing an array in place uses O(1) auxiliary space.
 
+
+========================================
+BIG O TOPIC: Time vs Space Complexity
+========================================
+
+Explanation:
+Time complexity measures computational work while space complexity measures additional memory usage. An algorithm may trade one resource for the other.
+
+Example:
+Example: Storing computed results can increase space usage while reducing repeated computation.
+
