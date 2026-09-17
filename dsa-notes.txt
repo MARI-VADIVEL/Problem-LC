@@ -702,3 +702,14 @@ Transposing a matrix changes rows into columns. For a square matrix, elements ac
 Example:
 Example: [[1,2],[3,4]] becomes [[1,3],[2,4]].
 
+
+========================================
+DSA TOPIC: Rotate Matrix
+========================================
+
+Explanation:
+A square matrix can be rotated by first transposing it and then reversing each row. This provides an efficient in-place rotation technique.
+
+Example:
+Example: A 3x3 matrix can be rotated 90 degrees clockwise using these two operations.
+
