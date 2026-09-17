@@ -493,3 +493,14 @@ The recursion tree method expands a recurrence into levels to estimate the total
 Example:
 Example: Merge sort has logarithmic levels with O(n) work at each level.
 
+
+========================================
+RECURSION THEORY: Memoization With Recursion
+========================================
+
+Explanation:
+Memoization stores results of recursive subproblems so repeated states can be answered without recalculation.
+
+Example:
+Example: Recursive Fibonacci can store each calculated Fibonacci number.
+
