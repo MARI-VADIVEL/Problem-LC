@@ -570,3 +570,14 @@ A suffix minimum stores the smallest value from each index to the end of an arra
 Example:
 Example: For [4,2,5,1], suffix minimum values are [1,1,1,1].
 
+
+========================================
+DSA TOPIC: Difference Array
+========================================
+
+Explanation:
+A difference array stores changes between consecutive elements. It allows multiple range updates to be performed efficiently and the final values can be reconstructed using prefix sums.
+
+Example:
+Example: Adding 5 to a range can be represented by changing only the range boundaries.
+
