@@ -9,3 +9,14 @@ Recursion is a technique where a function calls itself to solve a smaller versio
 Example:
 Example: factorial(n) can call factorial(n-1) until n reaches 1.
 
+
+========================================
+RECURSION THEORY: Base Case
+========================================
+
+Explanation:
+The base case is the condition that stops recursion. Without a base case, the function continues calling itself and can cause a stack overflow.
+
+Example:
+Example: In factorial, n == 0 can be the base case returning 1.
+
