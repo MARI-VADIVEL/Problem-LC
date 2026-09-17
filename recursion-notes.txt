@@ -196,3 +196,14 @@ A countdown is a simple example of recursion where the input decreases on every 
 Example:
 Example: countdown(3) processes 3, 2, 1, then stops.
 
+
+========================================
+RECURSION THEORY: Recursive Count Up
+========================================
+
+Explanation:
+A function can count upward by first making a recursive call with a smaller value and then performing the output while returning.
+
+Example:
+Example: countUp(3) can produce 1, 2, 3.
+
