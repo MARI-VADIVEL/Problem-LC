@@ -460,3 +460,14 @@ The time complexity of recursion depends on the number of recursive calls and th
 Example:
 Example: A single recursive call with constant work at every level can take O(n).
 
+
+========================================
+RECURSION THEORY: Recursion Space Complexity
+========================================
+
+Explanation:
+Recursive algorithms use stack memory for active calls. The space complexity is often related to recursion depth.
+
+Example:
+Example: Recursion with depth n can require O(n) stack space.
+
