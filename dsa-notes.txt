@@ -328,3 +328,14 @@ A queue follows the FIFO principle, meaning the first element inserted is the fi
 Example:
 Example: People standing in a line are processed from the front first.
 
+
+========================================
+DSA TOPIC: Deque
+========================================
+
+Explanation:
+A deque, or double-ended queue, allows insertion and deletion from both ends. It can be used to implement sliding-window algorithms efficiently.
+
+Example:
+Example: Elements can be added or removed from either the front or the back.
+
