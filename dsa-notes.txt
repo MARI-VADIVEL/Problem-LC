@@ -658,3 +658,14 @@ Merge intervals combines overlapping ranges into larger non-overlapping ranges. 
 Example:
 Example: [1,3] and [2,6] merge into [1,6].
 
+
+========================================
+DSA TOPIC: Interval Scheduling
+========================================
+
+Explanation:
+Interval scheduling selects the maximum number of non-overlapping activities. A common greedy strategy sorts activities by finishing time.
+
+Example:
+Example: Activities finishing earlier leave more room for future activities.
+
