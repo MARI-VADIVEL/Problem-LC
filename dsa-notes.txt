@@ -1536,3 +1536,14 @@ Depth-first search visits graph vertices and edges systematically. With an adjac
 Example:
 Example: DFS recursively explores neighboring vertices.
 
+
+========================================
+BIG O TOPIC: Tree Traversal Complexity
+========================================
+
+Explanation:
+A standard binary tree traversal visits every node once, giving O(n) time where n is the number of nodes.
+
+Example:
+Example: Inorder traversal processes every node exactly once.
+
