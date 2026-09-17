@@ -141,3 +141,14 @@ Factorial of n is the product of all positive integers from 1 to n. Recursion re
 Example:
 Example: 5! = 5 × 4 × 3 × 2 × 1 = 120.
 
+
+========================================
+RECURSION THEORY: Recursive Sum
+========================================
+
+Explanation:
+The sum of numbers from 1 to n can be expressed recursively by adding n to the sum of numbers from 1 to n-1.
+
+Example:
+Example: sum(5) = 5 + sum(4).
+
