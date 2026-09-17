@@ -1,0 +1,11 @@
+
+========================================
+RECURSION THEORY: Recursion Basics
+========================================
+
+Explanation:
+Recursion is a technique where a function calls itself to solve a smaller version of the same problem. Every recursive solution needs a condition that eventually stops the calls.
+
+Example:
+Example: factorial(n) can call factorial(n-1) until n reaches 1.
+
