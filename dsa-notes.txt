@@ -482,3 +482,14 @@ Memoization is a top-down dynamic programming technique. Results of recursive su
 Example:
 Example: Store the result of fibonacci(5) so future calls can reuse it.
 
+
+========================================
+DSA TOPIC: Tabulation
+========================================
+
+Explanation:
+Tabulation is a bottom-up dynamic programming technique. It starts with smaller known states and fills a table until the required answer is reached.
+
+Example:
+Example: A DP array can store Fibonacci values from 0 up to n.
+
