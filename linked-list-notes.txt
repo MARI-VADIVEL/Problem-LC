@@ -328,3 +328,14 @@ Removing a linked-list cycle requires identifying the cycle's starting point and
 Example:
 Example: 1 -> 2 -> 3 -> 4 -> 2 can be changed to 1 -> 2 -> 3 -> 4 -> null.
 
+
+========================================
+LINKED LIST THEORY: Merge Sorted Linked Lists
+========================================
+
+Explanation:
+Two sorted linked lists can be merged by repeatedly selecting the smaller current node. A dummy node can simplify the construction of the result.
+
+Example:
+Example: 1 -> 3 and 2 -> 4 become 1 -> 2 -> 3 -> 4.
+
