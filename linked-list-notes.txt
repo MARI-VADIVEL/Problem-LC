@@ -152,3 +152,14 @@ Insertion at the beginning is efficient because the new node can point to the cu
 Example:
 Example: 20 -> 30 becomes 10 -> 20 -> 30.
 
+
+========================================
+LINKED LIST THEORY: Insert At End
+========================================
+
+Explanation:
+Insertion at the end requires finding the tail when only a head reference is available. With a maintained tail reference, insertion can be O(1).
+
+Example:
+Example: 10 -> 20 becomes 10 -> 20 -> 30.
+
