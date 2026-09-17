@@ -174,3 +174,14 @@ Insertion at a particular position requires reaching the node before the inserti
 Example:
 Example: Insert 25 between 20 and 30 to get 10 -> 20 -> 25 -> 30.
 
+
+========================================
+LINKED LIST THEORY: Delete First Node
+========================================
+
+Explanation:
+Deleting the first node is performed by moving the head reference to the second node. This operation takes O(1) time.
+
+Example:
+Example: 10 -> 20 -> 30 becomes 20 -> 30.
+
