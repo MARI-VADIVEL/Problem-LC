@@ -295,3 +295,14 @@ A linked-list cycle occurs when following next references eventually returns to 
 Example:
 Example: 1 -> 2 -> 3 -> 4 -> 2 creates a cycle.
 
+
+========================================
+LINKED LIST THEORY: Floyd Cycle Detection
+========================================
+
+Explanation:
+Floyd's algorithm moves slow by one step and fast by two steps. If a cycle exists, fast eventually meets slow.
+
+Example:
+Example: Two runners moving at different speeds around a circular track eventually meet.
+
