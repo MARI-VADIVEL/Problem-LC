@@ -735,3 +735,14 @@ A Binary Search Tree follows the rule that values smaller than a node are placed
 Example:
 Example: In a BST with root 10, values 5 and 15 can appear on the left and right.
 
+
+========================================
+DSA TOPIC: BST Search
+========================================
+
+Explanation:
+Searching a Binary Search Tree compares the target with the current node and chooses either the left or right subtree. Average complexity is O(log n) for a balanced tree.
+
+Example:
+Example: To find 15 from root 10, move to the right subtree.
+
