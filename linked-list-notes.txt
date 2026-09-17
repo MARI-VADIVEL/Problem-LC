@@ -427,3 +427,14 @@ Access and search in a linked list are generally O(n), while insertion or deleti
 Example:
 Example: Changing a next pointer can be constant time once the correct node is available.
 
+
+========================================
+LINKED LIST THEORY: Array vs Linked List
+========================================
+
+Explanation:
+Arrays provide fast O(1) indexed access, while linked lists provide flexible node connections and efficient insertion or deletion at known positions.
+
+Example:
+Example: Accessing index 100 is direct in an array but requires traversal in a linked list.
+
