@@ -185,3 +185,14 @@ Deleting the first node is performed by moving the head reference to the second 
 Example:
 Example: 10 -> 20 -> 30 becomes 20 -> 30.
 
+
+========================================
+LINKED LIST THEORY: Delete Last Node
+========================================
+
+Explanation:
+Deleting the last node in a singly linked list usually requires finding the node before the tail. Therefore it generally takes O(n) time without a previous pointer.
+
+Example:
+Example: 10 -> 20 -> 30 becomes 10 -> 20.
+
