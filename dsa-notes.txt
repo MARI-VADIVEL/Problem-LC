@@ -504,3 +504,14 @@ A greedy algorithm makes the best-looking local choice at each step with the goa
 Example:
 Example: Selecting activities with the earliest finishing time is a classic greedy strategy.
 
+
+========================================
+DSA TOPIC: Time Complexity
+========================================
+
+Explanation:
+Time complexity describes how the running time of an algorithm grows as the input size increases. Common complexities include O(1), O(log n), O(n), O(n log n), and O(n^2).
+
+Example:
+Example: A single loop over n elements normally has O(n) time complexity.
+
