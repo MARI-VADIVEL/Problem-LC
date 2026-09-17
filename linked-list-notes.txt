@@ -251,3 +251,14 @@ Recursive reversal processes the remaining list first and then connects the curr
 Example:
 Example: 1 -> 2 -> 3 can be reversed through recursive calls.
 
+
+========================================
+LINKED LIST THEORY: Middle Node
+========================================
+
+Explanation:
+The middle node can be found efficiently using slow and fast pointers. Slow moves one step while fast moves two steps.
+
+Example:
+Example: In 1 -> 2 -> 3 -> 4 -> 5, slow reaches 3.
+
