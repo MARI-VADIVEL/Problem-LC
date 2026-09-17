@@ -240,3 +240,14 @@ Frequency counting records how many times each value or character occurs. HashMa
 Example:
 Example: In [1,2,2,3,3,3], the frequency of 3 is 3.
 
+
+========================================
+DSA TOPIC: Linked List
+========================================
+
+Explanation:
+A linked list consists of nodes where each node stores data and a reference to another node. Unlike arrays, linked-list nodes do not need contiguous memory.
+
+Example:
+Example: 10 -> 20 -> 30 -> null represents a simple singly linked list.
+
