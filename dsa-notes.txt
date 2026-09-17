@@ -1459,3 +1459,14 @@ Basic stack operations such as push, pop, and peek are typically O(1).
 Example:
 Example: Removing the top element from a stack does not require scanning all elements.
 
+
+========================================
+BIG O TOPIC: Queue Complexity
+========================================
+
+Explanation:
+Queue insertion and removal can be O(1) when appropriate front and rear references are maintained.
+
+Example:
+Example: Enqueue adds an element at the rear and dequeue removes one from the front.
+
