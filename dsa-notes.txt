@@ -1371,3 +1371,14 @@ Two-pointer algorithms often achieve O(n) time because each pointer moves throug
 Example:
 Example: Checking whether a sorted array contains two values with a target sum can use two pointers.
 
+
+========================================
+BIG O TOPIC: Sliding Window Complexity
+========================================
+
+Explanation:
+A properly implemented sliding-window algorithm usually processes each element a constant number of times, giving O(n) time.
+
+Example:
+Example: Finding the longest substring satisfying a condition can use a moving window.
+
