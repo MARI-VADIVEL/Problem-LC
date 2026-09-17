@@ -889,3 +889,14 @@ Graph DFS explores one path deeply before backtracking. It can be implemented re
 Example:
 Example: DFS can completely explore one branch before returning to another branch.
 
+
+========================================
+DSA TOPIC: Connected Components
+========================================
+
+Explanation:
+Connected components are groups of vertices where every vertex is reachable from other vertices in the same group. BFS or DFS can count components.
+
+Example:
+Example: A graph containing three isolated groups has three connected components.
+
