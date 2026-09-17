@@ -669,3 +669,14 @@ Interval scheduling selects the maximum number of non-overlapping activities. A 
 Example:
 Example: Activities finishing earlier leave more room for future activities.
 
+
+========================================
+DSA TOPIC: Matrix
+========================================
+
+Explanation:
+A matrix is a two-dimensional data structure arranged using rows and columns. Matrix problems commonly involve traversal, searching, rotation, and transformations.
+
+Example:
+Example: [[1,2],[3,4]] contains two rows and two columns.
+
