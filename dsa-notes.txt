@@ -97,3 +97,14 @@ Sorting arranges data according to a particular order, usually ascending or desc
 Example:
 Example: [5,2,4,1] becomes [1,2,4,5] in ascending order.
 
+
+========================================
+DSA TOPIC: Bubble Sort
+========================================
+
+Explanation:
+Bubble sort repeatedly compares adjacent elements and swaps them when they are in the wrong order. Larger elements gradually move toward the end. Its average and worst-case time complexity is O(n^2).
+
+Example:
+Example: During one pass, the largest unsorted element moves to the right side.
+
