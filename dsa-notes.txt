@@ -691,3 +691,14 @@ Matrix traversal visits elements row by row, column by column, or using another 
 Example:
 Example: Row-wise traversal of [[1,2],[3,4]] visits 1,2,3,4.
 
+
+========================================
+DSA TOPIC: Transpose Matrix
+========================================
+
+Explanation:
+Transposing a matrix changes rows into columns. For a square matrix, elements across the main diagonal can be swapped.
+
+Example:
+Example: [[1,2],[3,4]] becomes [[1,3],[2,4]].
+
