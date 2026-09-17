@@ -1262,3 +1262,14 @@ A loop that runs once for every element usually has O(n) time complexity. The nu
 Example:
 Example: for each element in an array, perform one constant-time operation.
 
+
+========================================
+BIG O TOPIC: Two Independent Loops
+========================================
+
+Explanation:
+Two loops executed one after another both depending on n still produce O(n) overall complexity because their costs are added.
+
+Example:
+Example: Two separate traversals of an array take O(n)+O(n), which simplifies to O(n).
+
