@@ -394,3 +394,14 @@ A binary tree is a hierarchical data structure where each node can have at most 
 Example:
 Example: A root node 10 can have children 5 and 15.
 
+
+========================================
+DSA TOPIC: Tree Traversal
+========================================
+
+Explanation:
+Tree traversal means visiting every node of a tree according to a particular order. Common depth-first traversals are preorder, inorder, and postorder.
+
+Example:
+Example: Inorder traversal visits left subtree, root, and right subtree.
+
