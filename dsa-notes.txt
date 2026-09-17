@@ -1086,3 +1086,14 @@ Edit distance measures the minimum number of insertions, deletions, and replacem
 Example:
 Example: Transforming "cat" into "cut" requires one replacement.
 
+
+========================================
+BIG O TOPIC: Big O Notation
+========================================
+
+Explanation:
+Big O notation describes how an algorithm's running time or memory usage grows as the input size increases. It focuses on the growth rate rather than exact execution time.
+
+Example:
+Example: An algorithm that checks every element once has O(n) time complexity.
+
