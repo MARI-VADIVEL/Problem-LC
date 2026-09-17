@@ -1547,3 +1547,14 @@ A standard binary tree traversal visits every node once, giving O(n) time where 
 Example:
 Example: Inorder traversal processes every node exactly once.
 
+
+========================================
+BIG O TOPIC: Recursive Space Complexity
+========================================
+
+Explanation:
+Recursive algorithms use call-stack memory for active function calls. The stack space depends on recursion depth.
+
+Example:
+Example: A recursive traversal of a skewed tree can use O(n) stack space.
+
