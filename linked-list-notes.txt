@@ -1,0 +1,11 @@
+
+========================================
+LINKED LIST THEORY: Linked List Introduction
+========================================
+
+Explanation:
+A linked list is a linear data structure made up of nodes. Each node stores data and a reference to another node. Unlike arrays, linked-list nodes do not have to be stored in contiguous memory.
+
+Example:
+Example: 10 -> 20 -> 30 -> null
+
