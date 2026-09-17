@@ -130,3 +130,14 @@ Searching a linked list normally requires sequential traversal because nodes do 
 Example:
 Example: Finding the fifth node requires moving through previous nodes.
 
+
+========================================
+LINKED LIST THEORY: Linked List Access
+========================================
+
+Explanation:
+Accessing an element at a specific position in a linked list takes O(n) time because the list must usually be traversed from the head.
+
+Example:
+Example: Finding index 4 requires following four links first.
+
