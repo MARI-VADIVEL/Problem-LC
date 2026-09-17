@@ -295,3 +295,14 @@ Floyd's cycle detection algorithm uses fast and slow pointers. If the linked lis
 Example:
 Example: 1 -> 2 -> 3 -> 2 creates a cycle.
 
+
+========================================
+DSA TOPIC: Merge Two Sorted Lists
+========================================
+
+Explanation:
+Two sorted linked lists can be merged by comparing their current nodes and repeatedly choosing the smaller value. A dummy node simplifies the construction of the result.
+
+Example:
+Example: [1,3,5] and [2,4,6] become [1,2,3,4,5,6].
+
