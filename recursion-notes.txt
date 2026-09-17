@@ -515,3 +515,14 @@ Recursion uses function calls and the call stack, while iteration uses loops. Bo
 Example:
 Example: Factorial can be implemented using either a loop or recursive calls.
 
+
+========================================
+RECURSION THEORY: When To Use Recursion
+========================================
+
+Explanation:
+Recursion is especially useful when a problem naturally contains smaller versions of itself, such as trees, divide-and-conquer algorithms, and backtracking.
+
+Example:
+Example: Tree traversal is naturally expressed using recursion.
+
