@@ -1010,3 +1010,13 @@ A base case is the condition that stops recursive execution. Without a correct b
 Example:
 Example: Factorial recursion stops when n reaches 0 or 1.
 
+
+========================================
+DSA TOPIC: Binary Search Recursion
+========================================
+
+Explanation:
+Recursive binary search divides a sorted search range into two halves and continues with the half that may contain the target.
+
+Example: The search range becomes smaller after every recursive call.
+
