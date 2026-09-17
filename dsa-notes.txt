@@ -75,3 +75,14 @@ Binary search works on a sorted collection by repeatedly dividing the search spa
 Example:
 Example: Searching for 30 in [10,20,30,40,50] checks the middle before choosing the correct half.
 
+
+========================================
+DSA TOPIC: Linear Search
+========================================
+
+Explanation:
+Linear search checks elements sequentially until the target is found or the array ends. It works even when the data is unsorted. Its worst-case time complexity is O(n).
+
+Example:
+Example: Searching for 30 in [10,20,30,40] checks 10, then 20, then 30.
+
