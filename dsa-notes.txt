@@ -1316,3 +1316,14 @@ When simplifying Big O, lower-order terms and constant factors are ignored becau
 
 Example:
 Example: O(n^2+n+10) becomes O(n^2).
+
+========================================
+BIG O TOPIC: Ignoring Constants
+========================================
+
+Explanation:
+Big O ignores constant multipliers because they do not change the growth category.
+
+Example:
+Example: O(5n) is represented as O(n).
+
