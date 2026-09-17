@@ -1031,3 +1031,14 @@ Fibonacci numbers can be calculated efficiently with dynamic programming by stor
 Example:
 Example: dp[i] can store the ith Fibonacci number.
 
+
+========================================
+DSA TOPIC: Climbing Stairs
+========================================
+
+Explanation:
+The climbing stairs problem asks how many ways a person can reach the top when they can climb one or two steps at a time. It follows a Fibonacci-like recurrence.
+
+Example:
+Example: The number of ways to reach step n depends on the ways to reach n-1 and n-2.
+
