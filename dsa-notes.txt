@@ -1470,3 +1470,14 @@ Queue insertion and removal can be O(1) when appropriate front and rear referenc
 Example:
 Example: Enqueue adds an element at the rear and dequeue removes one from the front.
 
+
+========================================
+BIG O TOPIC: Binary Search Complexity
+========================================
+
+Explanation:
+Binary search has O(log n) time because each comparison removes approximately half of the remaining search space.
+
+Example:
+Example: Searching one million sorted elements requires only around log2(1000000) divisions.
+
