@@ -900,3 +900,14 @@ Connected components are groups of vertices where every vertex is reachable from
 Example:
 Example: A graph containing three isolated groups has three connected components.
 
+
+========================================
+DSA TOPIC: Cycle in Undirected Graph
+========================================
+
+Explanation:
+A cycle exists in an undirected graph when a path returns to an already visited vertex without simply following the parent edge. DFS can detect this condition.
+
+Example:
+Example: A-B-C-A forms a cycle.
+
