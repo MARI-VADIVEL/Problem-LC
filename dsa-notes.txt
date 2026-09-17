@@ -966,3 +966,14 @@ Floyd-Warshall computes shortest paths between every pair of vertices using dyna
 Example:
 Example: A distance matrix is gradually improved using each vertex as an intermediate point.
 
+
+========================================
+DSA TOPIC: Disjoint Set Union
+========================================
+
+Explanation:
+Disjoint Set Union maintains groups of connected elements. It supports union and find operations and is optimized using path compression and union by rank or size.
+
+Example:
+Example: DSU can determine whether two vertices belong to the same connected component.
+
