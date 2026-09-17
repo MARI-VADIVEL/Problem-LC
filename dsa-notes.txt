@@ -1404,3 +1404,14 @@ HashSet insertion and membership checks are generally O(1) on average. This make
 Example:
 Example: Checking whether an element has appeared before can be done efficiently.
 
+
+========================================
+BIG O TOPIC: Array Access Complexity
+========================================
+
+Explanation:
+Accessing an array element using its index takes O(1) because the memory address can be calculated directly.
+
+Example:
+Example: arr[i] can be accessed without scanning earlier elements.
+
