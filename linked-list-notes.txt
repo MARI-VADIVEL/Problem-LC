@@ -163,3 +163,14 @@ Insertion at the end requires finding the tail when only a head reference is ava
 Example:
 Example: 10 -> 20 becomes 10 -> 20 -> 30.
 
+
+========================================
+LINKED LIST THEORY: Insert At Position
+========================================
+
+Explanation:
+Insertion at a particular position requires reaching the node before the insertion point and changing references appropriately.
+
+Example:
+Example: Insert 25 between 20 and 30 to get 10 -> 20 -> 25 -> 30.
+
