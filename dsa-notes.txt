@@ -141,3 +141,14 @@ Merge sort divides an array into smaller parts, sorts those parts, and merges th
 Example:
 Example: [4,1,3,2] is divided into smaller arrays and then merged in sorted order.
 
+
+========================================
+DSA TOPIC: Quick Sort
+========================================
+
+Explanation:
+Quick sort selects a pivot and partitions the array so that smaller values go to one side and larger values go to the other. The partitions are then sorted recursively. Average time complexity is O(n log n).
+
+Example:
+Example: With 5 as pivot, values smaller than 5 are placed before it.
+
