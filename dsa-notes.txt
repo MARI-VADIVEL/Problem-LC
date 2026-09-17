@@ -526,3 +526,14 @@ Space complexity describes the extra memory required by an algorithm as input si
 Example:
 Example: An algorithm using only a few variables has O(1) auxiliary space.
 
+
+========================================
+DSA TOPIC: Prefix Maximum
+========================================
+
+Explanation:
+A prefix maximum stores the largest value seen from the beginning of an array up to each position. It is useful when a problem requires comparing an element with values that appeared earlier.
+
+Example:
+Example: For [3,1,5,2], prefix maximum values are [3,3,5,5].
+
