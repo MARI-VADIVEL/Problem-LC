@@ -1218,3 +1218,14 @@ Average-case complexity describes expected performance across inputs under a spe
 Example:
 Example: Quick sort has average O(n log n) time under typical pivot behavior.
 
+
+========================================
+BIG O TOPIC: Space Complexity
+========================================
+
+Explanation:
+Space complexity measures how additional memory requirements grow with input size. It includes auxiliary data structures and other extra memory.
+
+Example:
+Example: An algorithm using an additional array of n elements has O(n) extra space.
+
