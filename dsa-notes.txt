@@ -1020,3 +1020,14 @@ Recursive binary search divides a sorted search range into two halves and contin
 
 Example: The search range becomes smaller after every recursive call.
 
+
+========================================
+DSA TOPIC: Fibonacci DP
+========================================
+
+Explanation:
+Fibonacci numbers can be calculated efficiently with dynamic programming by storing previously computed values. This avoids the repeated work of naive recursion.
+
+Example:
+Example: dp[i] can store the ith Fibonacci number.
+
