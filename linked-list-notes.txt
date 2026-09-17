@@ -372,3 +372,14 @@ Two-pointer intersection can switch each pointer to the other list after reachin
 Example:
 Example: Pointer A traverses list A then list B while pointer B traverses list B then list A.
 
+
+========================================
+LINKED LIST THEORY: Palindrome Linked List
+========================================
+
+Explanation:
+A linked list is a palindrome when its values are the same forward and backward. One efficient approach finds the middle, reverses the second half, and compares both halves.
+
+Example:
+Example: 1 -> 2 -> 2 -> 1 is a palindrome.
+
