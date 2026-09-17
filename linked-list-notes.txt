@@ -273,3 +273,14 @@ The fast pointer moves faster than the slow pointer, usually two nodes at a time
 Example:
 Example: slow moves one node while fast moves two nodes.
 
+
+========================================
+LINKED LIST THEORY: Slow Pointer
+========================================
+
+Explanation:
+The slow pointer normally moves one node at a time. When paired with a fast pointer, it can identify positions related to the middle or cycles.
+
+Example:
+Example: When fast reaches the end, slow is around the middle.
+
