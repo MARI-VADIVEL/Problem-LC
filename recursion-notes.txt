@@ -438,3 +438,14 @@ A decision tree represents the choices made during recursive exploration. Each l
 Example:
 Example: Subset generation creates include and exclude branches.
 
+
+========================================
+RECURSION THEORY: Recursion Depth
+========================================
+
+Explanation:
+Recursion depth is the maximum number of function calls active at one time. It determines how much call-stack memory is required.
+
+Example:
+Example: A recursion that decreases n by one has approximately O(n) depth.
+
