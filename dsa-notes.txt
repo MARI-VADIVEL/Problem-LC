@@ -284,3 +284,14 @@ Fast and slow pointers use two references moving at different speeds. This techn
 Example:
 Example: slow moves one step while fast moves two steps.
 
+
+========================================
+DSA TOPIC: Cycle Detection
+========================================
+
+Explanation:
+Floyd's cycle detection algorithm uses fast and slow pointers. If the linked list contains a cycle, the two pointers eventually meet. The algorithm uses O(n) time and O(1) extra space.
+
+Example:
+Example: 1 -> 2 -> 3 -> 2 creates a cycle.
+
