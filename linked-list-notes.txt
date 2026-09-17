@@ -339,3 +339,14 @@ Two sorted linked lists can be merged by repeatedly selecting the smaller curren
 Example:
 Example: 1 -> 3 and 2 -> 4 become 1 -> 2 -> 3 -> 4.
 
+
+========================================
+LINKED LIST THEORY: Dummy Node
+========================================
+
+Explanation:
+A dummy node is an extra temporary node placed before the result list. It simplifies insertion and merging because the result always has a previous node.
+
+Example:
+Example: dummy -> 1 -> 2 -> 3.
+
