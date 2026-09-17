@@ -493,3 +493,14 @@ When a linked-list node is no longer reachable by any reference, a garbage-colle
 Example:
 Example: Removing a node from the list can make it unreachable if no other reference points to it.
 
+
+========================================
+LINKED LIST THEORY: Reference Manipulation
+========================================
+
+Explanation:
+Linked-list operations mainly involve changing references between nodes. Careful ordering is important because changing a reference too early can lose access to part of the list.
+
+Example:
+Example: Save current.next before redirecting current.next during reversal.
+
