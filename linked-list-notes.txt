@@ -207,3 +207,14 @@ Deleting a node at a specific position requires reaching the previous node and c
 Example:
 Example: 10 -> 20 -> 30 becomes 10 -> 30 when 20 is removed.
 
+
+========================================
+LINKED LIST THEORY: Update Node
+========================================
+
+Explanation:
+Updating a linked-list node means changing the data stored in an existing node. The node must first be located through traversal unless its reference is already known.
+
+Example:
+Example: 20 can be changed to 25 without changing the links.
+
