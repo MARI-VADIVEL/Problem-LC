@@ -31,3 +31,14 @@ The recursive case is the part where a function calls itself with a smaller or s
 Example:
 Example: factorial(n) returns n * factorial(n-1).
 
+
+========================================
+RECURSION THEORY: Call Stack
+========================================
+
+Explanation:
+Each recursive function call is stored on the call stack until that call finishes. The most recent call is completed first.
+
+Example:
+Example: factorial(3) creates calls for 3, 2, and 1 before returning.
+
