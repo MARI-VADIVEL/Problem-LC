@@ -1229,3 +1229,14 @@ Space complexity measures how additional memory requirements grow with input siz
 Example:
 Example: An algorithm using an additional array of n elements has O(n) extra space.
 
+
+========================================
+BIG O TOPIC: Auxiliary Space
+========================================
+
+Explanation:
+Auxiliary space refers to extra memory used by an algorithm excluding the memory occupied by the input itself.
+
+Example:
+Example: Reversing an array in place uses O(1) auxiliary space.
+
