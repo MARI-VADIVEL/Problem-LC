@@ -537,3 +537,14 @@ A prefix maximum stores the largest value seen from the beginning of an array up
 Example:
 Example: For [3,1,5,2], prefix maximum values are [3,3,5,5].
 
+
+========================================
+DSA TOPIC: Suffix Maximum
+========================================
+
+Explanation:
+A suffix maximum stores the largest value from each position to the end of an array. It is useful for problems involving elements on the right side.
+
+Example:
+Example: For [3,1,5,2], suffix maximum values are [5,5,5,2].
+
