@@ -306,3 +306,14 @@ Floyd's algorithm moves slow by one step and fast by two steps. If a cycle exist
 Example:
 Example: Two runners moving at different speeds around a circular track eventually meet.
 
+
+========================================
+LINKED LIST THEORY: Cycle Starting Point
+========================================
+
+Explanation:
+After detecting a cycle using slow and fast pointers, resetting one pointer to the head and moving both one step at a time can locate the cycle's starting node.
+
+Example:
+Example: In 1 -> 2 -> 3 -> 4 -> 2, node 2 is the cycle start.
+
