@@ -1558,3 +1558,14 @@ Recursive algorithms use call-stack memory for active function calls. The stack 
 Example:
 Example: A recursive traversal of a skewed tree can use O(n) stack space.
 
+
+========================================
+BIG O TOPIC: Memoization Complexity
+========================================
+
+Explanation:
+Memoization stores results for previously solved states. If there are n unique states and each state takes constant work, the time can become O(n).
+
+Example:
+Example: Memoized Fibonacci avoids repeatedly calculating the same values.
+
