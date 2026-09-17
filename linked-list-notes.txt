@@ -350,3 +350,14 @@ A dummy node is an extra temporary node placed before the result list. It simpli
 Example:
 Example: dummy -> 1 -> 2 -> 3.
 
+
+========================================
+LINKED LIST THEORY: Linked List Intersection
+========================================
+
+Explanation:
+Two linked lists intersect when their nodes share the same physical node reference. Comparing only values is not sufficient to identify an intersection.
+
+Example:
+Example: Both lists can eventually point to the same node containing 8.
+
