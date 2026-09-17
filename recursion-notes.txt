@@ -295,3 +295,14 @@ Linked lists naturally support recursion because every node points to a smaller 
 Example:
 Example: A recursive function can process the current node and then call itself with node.next.
 
+
+========================================
+RECURSION THEORY: Recursive Linked List Traversal
+========================================
+
+Explanation:
+A linked list can be printed recursively by processing the current node and recursively processing the next node.
+
+Example:
+Example: 10 -> 20 -> 30 can be printed through recursive calls.
+
