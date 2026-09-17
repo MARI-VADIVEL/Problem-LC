@@ -504,3 +504,14 @@ Memoization stores results of recursive subproblems so repeated states can be an
 Example:
 Example: Recursive Fibonacci can store each calculated Fibonacci number.
 
+
+========================================
+RECURSION THEORY: Recursion vs Iteration
+========================================
+
+Explanation:
+Recursion uses function calls and the call stack, while iteration uses loops. Both can solve many of the same problems, but their memory and implementation characteristics can differ.
+
+Example:
+Example: Factorial can be implemented using either a loop or recursive calls.
+
