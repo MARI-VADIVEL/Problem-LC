@@ -240,3 +240,14 @@ An array can be traversed recursively by processing one index and calling the fu
 Example:
 Example: process index 0, then index 1, then continue until the array ends.
 
+
+========================================
+RECURSION THEORY: Recursive Array Sum
+========================================
+
+Explanation:
+The sum of an array can be calculated recursively by adding the current element to the sum of the remaining elements.
+
+Example:
+Example: [1,2,3] can be calculated as 1 + sum([2,3]).
+
