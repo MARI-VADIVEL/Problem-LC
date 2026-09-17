@@ -526,3 +526,14 @@ Recursion is especially useful when a problem naturally contains smaller version
 Example:
 Example: Tree traversal is naturally expressed using recursion.
 
+
+========================================
+RECURSION THEORY: Recursion Edge Cases
+========================================
+
+Explanation:
+Recursive solutions must handle empty input, the smallest valid input, invalid input when applicable, and correct termination conditions.
+
+Example:
+Example: A recursive array function should stop when the index reaches the array length.
+
