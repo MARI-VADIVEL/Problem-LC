@@ -614,3 +614,14 @@ Moore's Voting Algorithm maintains a candidate and a counter. Equal values incre
 Example:
 Example: Repeated occurrences of a majority value allow its counter to survive other values.
 
+
+========================================
+DSA TOPIC: Kadane With Indices
+========================================
+
+Explanation:
+Kadane's algorithm can be extended to track the starting and ending indices of the maximum-sum subarray. This provides both the maximum sum and the actual subarray.
+
+Example:
+Example: For [1,-2,3,4], the best range is indices 2 to 3.
+
