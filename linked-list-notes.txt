@@ -383,3 +383,14 @@ A linked list is a palindrome when its values are the same forward and backward.
 Example:
 Example: 1 -> 2 -> 2 -> 1 is a palindrome.
 
+
+========================================
+LINKED LIST THEORY: Split Linked List
+========================================
+
+Explanation:
+Splitting a linked list divides it into separate parts. Slow and fast pointers are often used to locate the midpoint before breaking the link.
+
+Example:
+Example: 1 -> 2 -> 3 -> 4 can be split into 1 -> 2 and 3 -> 4.
+
