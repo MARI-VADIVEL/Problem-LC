@@ -284,3 +284,14 @@ Recursive binary search divides a sorted array's search range into two halves an
 Example:
 Example: The middle value determines whether to search left or right.
 
+
+========================================
+RECURSION THEORY: Recursion With Linked List
+========================================
+
+Explanation:
+Linked lists naturally support recursion because every node points to a smaller remaining list through its next reference.
+
+Example:
+Example: A recursive function can process the current node and then call itself with node.next.
+
