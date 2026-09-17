@@ -471,3 +471,14 @@ Linked lists require extra memory for references and do not provide direct index
 Example:
 Example: Finding index 500 requires following many links.
 
+
+========================================
+LINKED LIST THEORY: Memory Allocation
+========================================
+
+Explanation:
+Linked-list nodes are commonly created dynamically. Each node stores its data along with one or more references to other nodes.
+
+Example:
+Example: Creating a new node allocates memory for its value and next reference.
+
