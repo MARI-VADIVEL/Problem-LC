@@ -273,3 +273,14 @@ Reversing a linked list changes every next reference so that the nodes point tow
 Example:
 Example: 1 -> 2 -> 3 becomes 3 -> 2 -> 1.
 
+
+========================================
+DSA TOPIC: Fast and Slow Pointers
+========================================
+
+Explanation:
+Fast and slow pointers use two references moving at different speeds. This technique is useful for finding the middle of a linked list and detecting cycles.
+
+Example:
+Example: slow moves one step while fast moves two steps.
+
