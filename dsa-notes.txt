@@ -1503,3 +1503,14 @@ Quick sort has average O(n log n) time when partitions are reasonably balanced. 
 Example:
 Example: Choosing poor pivots repeatedly can create very uneven partitions.
 
+
+========================================
+BIG O TOPIC: Heap Sort Complexity
+========================================
+
+Explanation:
+Heap sort builds and maintains a heap while repeatedly extracting elements. Its overall time complexity is O(n log n).
+
+Example:
+Example: Each extraction requires logarithmic heap adjustment.
+
