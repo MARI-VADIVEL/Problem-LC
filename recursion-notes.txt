@@ -482,3 +482,14 @@ A recurrence relation describes the running time of a recursive algorithm in ter
 Example:
 Example: Merge sort follows T(n) = 2T(n/2) + O(n).
 
+
+========================================
+RECURSION THEORY: Recursion Tree Method
+========================================
+
+Explanation:
+The recursion tree method expands a recurrence into levels to estimate the total work performed by a recursive algorithm.
+
+Example:
+Example: Merge sort has logarithmic levels with O(n) work at each level.
+
