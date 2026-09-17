@@ -460,3 +460,14 @@ Linked lists can grow dynamically and do not require contiguous memory. Insertio
 Example:
 Example: Adding a node between two known nodes only requires changing a small number of references.
 
+
+========================================
+LINKED LIST THEORY: Linked List Disadvantages
+========================================
+
+Explanation:
+Linked lists require extra memory for references and do not provide direct indexed access. Traversal can also be slower because nodes may be scattered in memory.
+
+Example:
+Example: Finding index 500 requires following many links.
+
