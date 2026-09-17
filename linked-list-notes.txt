@@ -141,3 +141,14 @@ Accessing an element at a specific position in a linked list takes O(n) time bec
 Example:
 Example: Finding index 4 requires following four links first.
 
+
+========================================
+LINKED LIST THEORY: Insert At Beginning
+========================================
+
+Explanation:
+Insertion at the beginning is efficient because the new node can point to the current head and then become the new head.
+
+Example:
+Example: 20 -> 30 becomes 10 -> 20 -> 30.
+
