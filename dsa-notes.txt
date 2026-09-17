@@ -746,3 +746,14 @@ Searching a Binary Search Tree compares the target with the current node and cho
 Example:
 Example: To find 15 from root 10, move to the right subtree.
 
+
+========================================
+DSA TOPIC: BST Insertion
+========================================
+
+Explanation:
+BST insertion follows comparisons from the root until an empty position is found. The new value is inserted while maintaining the BST property.
+
+Example:
+Example: Inserting 7 into a tree containing 10 and 5 places 7 in the right subtree of 5.
+
