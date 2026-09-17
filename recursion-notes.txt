@@ -75,3 +75,14 @@ Indirect recursion occurs when one function calls another function and that seco
 Example:
 Example: function A calls B, and B calls A.
 
+
+========================================
+RECURSION THEORY: Tail Recursion
+========================================
+
+Explanation:
+Tail recursion occurs when the recursive call is the final significant operation performed by the function. Some languages can optimize it, although Java does not generally perform tail-call optimization.
+
+Example:
+Example: A recursive factorial can carry the accumulated result as a parameter.
+
