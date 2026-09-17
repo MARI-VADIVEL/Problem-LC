@@ -1174,3 +1174,14 @@ O(2^n) means the amount of work roughly doubles when the input increases by one.
 Example:
 Example: Generating every subset of n elements produces 2^n possibilities.
 
+
+========================================
+BIG O TOPIC: O(n!) Factorial Time
+========================================
+
+Explanation:
+O(n!) occurs when an algorithm generates every possible permutation of n elements. It grows extremely quickly.
+
+Example:
+Example: Generating all permutations of n distinct elements requires n! arrangements.
+
