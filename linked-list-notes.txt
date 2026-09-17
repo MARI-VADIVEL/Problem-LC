@@ -317,3 +317,14 @@ After detecting a cycle using slow and fast pointers, resetting one pointer to t
 Example:
 Example: In 1 -> 2 -> 3 -> 4 -> 2, node 2 is the cycle start.
 
+
+========================================
+LINKED LIST THEORY: Remove Cycle
+========================================
+
+Explanation:
+Removing a linked-list cycle requires identifying the cycle's starting point and changing the previous node's next reference to null.
+
+Example:
+Example: 1 -> 2 -> 3 -> 4 -> 2 can be changed to 1 -> 2 -> 3 -> 4 -> null.
+
