@@ -471,3 +471,14 @@ Recursive algorithms use stack memory for active calls. The space complexity is 
 Example:
 Example: Recursion with depth n can require O(n) stack space.
 
+
+========================================
+RECURSION THEORY: Recurrence Relation
+========================================
+
+Explanation:
+A recurrence relation describes the running time of a recursive algorithm in terms of smaller input sizes.
+
+Example:
+Example: Merge sort follows T(n) = 2T(n/2) + O(n).
+
