@@ -185,3 +185,14 @@ A HashMap stores data as key-value pairs. It is commonly used for frequency coun
 Example:
 Example: map.put("apple",3) stores apple with frequency 3.
 
+
+========================================
+DSA TOPIC: String
+========================================
+
+Explanation:
+A string is a sequence of characters. Strings are widely used in pattern matching, searching, parsing, and many interview problems. In Java, String objects are immutable.
+
+Example:
+Example: String s = "hello" contains five characters.
+
