@@ -42,3 +42,14 @@ Each recursive function call is stored on the call stack until that call finishe
 Example:
 Example: factorial(3) creates calls for 3, 2, and 1 before returning.
 
+
+========================================
+RECURSION THEORY: Stack Overflow
+========================================
+
+Explanation:
+A stack overflow occurs when recursion creates too many active function calls for the available call-stack memory. Missing base cases or very deep recursion can cause it.
+
+Example:
+Example: A function that calls itself forever eventually causes StackOverflowError in Java.
+
