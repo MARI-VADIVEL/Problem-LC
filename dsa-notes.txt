@@ -592,3 +592,14 @@ The Dutch National Flag algorithm partitions an array containing three different
 Example:
 Example: [2,0,1,2,1,0] can be rearranged into [0,0,1,1,2,2].
 
+
+========================================
+DSA TOPIC: Majority Element
+========================================
+
+Explanation:
+A majority element is an element that appears more than half of the array length. Moore's Voting Algorithm can find it using O(n) time and O(1) extra space.
+
+Example:
+Example: In [2,2,1,2,3,2,2], the majority element is 2.
+
