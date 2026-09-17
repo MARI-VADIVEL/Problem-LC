@@ -1393,3 +1393,14 @@ HashMap operations such as insertion and lookup are generally O(1) on average, a
 Example:
 Example: Frequency counting can usually be performed in O(n) time using a HashMap.
 
+
+========================================
+BIG O TOPIC: HashSet Complexity
+========================================
+
+Explanation:
+HashSet insertion and membership checks are generally O(1) on average. This makes it useful for duplicate detection.
+
+Example:
+Example: Checking whether an element has appeared before can be done efficiently.
+
