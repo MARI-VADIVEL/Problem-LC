@@ -988,3 +988,14 @@ Path compression makes future find operations faster by connecting visited nodes
 Example:
 Example: A long parent chain becomes much flatter after a find operation.
 
+
+========================================
+DSA TOPIC: Recursion Tree
+========================================
+
+Explanation:
+A recursion tree represents the recursive calls made by an algorithm. It helps understand the number of subproblems and the resulting time complexity.
+
+Example:
+Example: Merge sort creates two recursive branches at each level.
+
