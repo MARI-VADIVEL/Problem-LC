@@ -75,3 +75,14 @@ A doubly linked list contains two references in each node: previous and next. Th
 Example:
 Example: null <- 10 <-> 20 <-> 30 -> null
 
+
+========================================
+LINKED LIST THEORY: Circular Linked List
+========================================
+
+Explanation:
+In a circular linked list, the last node points back to an earlier node, commonly the head, instead of pointing to null.
+
+Example:
+Example: 10 -> 20 -> 30 -> 10
+
