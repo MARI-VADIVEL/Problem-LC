@@ -306,3 +306,14 @@ A linked list can be printed recursively by processing the current node and recu
 Example:
 Example: 10 -> 20 -> 30 can be printed through recursive calls.
 
+
+========================================
+RECURSION THEORY: Reverse Linked List Recursively
+========================================
+
+Explanation:
+Recursive linked-list reversal processes the remaining nodes first and then connects the current node after the reversed portion.
+
+Example:
+Example: 1 -> 2 -> 3 becomes 3 -> 2 -> 1.
+
