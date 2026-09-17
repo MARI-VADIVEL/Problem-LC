@@ -174,3 +174,14 @@ A HashSet stores unique elements and does not allow duplicates. It uses hashing 
 Example:
 Example: Adding 10 twice to a HashSet still leaves only one 10.
 
+
+========================================
+DSA TOPIC: HashMap
+========================================
+
+Explanation:
+A HashMap stores data as key-value pairs. It is commonly used for frequency counting, lookup tables, and mapping relationships. Average insertion and lookup are O(1).
+
+Example:
+Example: map.put("apple",3) stores apple with frequency 3.
+
