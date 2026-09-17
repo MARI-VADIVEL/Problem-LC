@@ -240,3 +240,14 @@ Iterative reversal commonly uses previous, current, and next references. The nex
 Example:
 Example: Each node is gradually redirected toward the previous node.
 
+
+========================================
+LINKED LIST THEORY: Recursive Reversal
+========================================
+
+Explanation:
+Recursive reversal processes the remaining list first and then connects the current node after the recursive result. The recursion eventually reaches the original tail.
+
+Example:
+Example: 1 -> 2 -> 3 can be reversed through recursive calls.
+
