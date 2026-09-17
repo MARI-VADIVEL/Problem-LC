@@ -801,3 +801,14 @@ A heap is a complete binary tree that follows a heap-order property. In a min-he
 Example:
 Example: A min-heap can quickly provide the smallest element.
 
+
+========================================
+DSA TOPIC: Min Heap
+========================================
+
+Explanation:
+A min-heap keeps the smallest value at the root. Insertion and deletion of the minimum generally take O(log n), while reading the minimum takes O(1).
+
+Example:
+Example: Adding 2 to a min-heap places it according to heap ordering.
+
