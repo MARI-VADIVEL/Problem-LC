@@ -97,3 +97,14 @@ Head recursion occurs when the recursive call happens before the remaining work 
 Example:
 Example: A function recursively processes n-1 before printing n.
 
+
+========================================
+RECURSION THEORY: Tree Recursion
+========================================
+
+Explanation:
+Tree recursion occurs when a function makes more than one recursive call, causing the call structure to branch like a tree.
+
+Example:
+Example: Naive Fibonacci calls fibonacci(n-1) and fibonacci(n-2).
+
