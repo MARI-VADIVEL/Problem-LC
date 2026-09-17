@@ -152,3 +152,14 @@ Quick sort selects a pivot and partitions the array so that smaller values go to
 Example:
 Example: With 5 as pivot, values smaller than 5 are placed before it.
 
+
+========================================
+DSA TOPIC: Hashing
+========================================
+
+Explanation:
+Hashing maps keys to locations using a hash function. Hash tables provide average O(1) insertion, deletion, and lookup. Hashing is useful for frequency counting and fast membership checking.
+
+Example:
+Example: A HashSet can quickly determine whether a value already exists.
+
