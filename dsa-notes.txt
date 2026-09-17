@@ -405,3 +405,14 @@ Tree traversal means visiting every node of a tree according to a particular ord
 Example:
 Example: Inorder traversal visits left subtree, root, and right subtree.
 
+
+========================================
+DSA TOPIC: BFS
+========================================
+
+Explanation:
+Breadth-first search explores a graph or tree level by level. It normally uses a queue and is useful for finding the shortest number of edges in an unweighted graph.
+
+Example:
+Example: Starting from a root, BFS visits all immediate neighbors before moving deeper.
+
