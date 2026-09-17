@@ -1152,3 +1152,14 @@ O(n^2) means the work grows approximately with the square of the input size. It 
 Example:
 Example: Comparing every pair of elements can require O(n^2) operations.
 
+
+========================================
+BIG O TOPIC: O(n^3) Cubic Time
+========================================
+
+Explanation:
+O(n^3) occurs when three independent loops each depend on the input size. Such algorithms become expensive as n grows.
+
+Example:
+Example: A straightforward three-dimensional matrix traversal can take O(n^3).
+
