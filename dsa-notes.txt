@@ -449,3 +449,14 @@ An adjacency list stores the neighbors of every graph vertex. It is memory effic
 Example:
 Example: If 1 connects to 2 and 3, the list for 1 contains 2 and 3.
 
+
+========================================
+DSA TOPIC: Topological Sort
+========================================
+
+Explanation:
+Topological sorting produces an ordering of vertices in a directed acyclic graph such that every directed edge points from an earlier vertex to a later vertex. It is useful for dependency problems.
+
+Example:
+Example: A course prerequisite can appear before the course that depends on it.
+
