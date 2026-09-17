@@ -53,3 +53,14 @@ A prefix sum stores cumulative sums of an array. It allows range-sum queries to 
 Example:
 Example: For [2,4,6], the prefix sums are [2,6,12].
 
+
+========================================
+DSA TOPIC: Kadane Algorithm
+========================================
+
+Explanation:
+Kadane's algorithm finds the maximum sum of a contiguous subarray. It keeps track of the best sum ending at the current position and the overall best sum. Its time complexity is O(n).
+
+Example:
+Example: In [-2,1,-3,4,-1,2,1], the maximum subarray is [4,-1,2,1].
+
