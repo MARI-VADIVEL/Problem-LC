@@ -1481,3 +1481,14 @@ Binary search has O(log n) time because each comparison removes approximately ha
 Example:
 Example: Searching one million sorted elements requires only around log2(1000000) divisions.
 
+
+========================================
+BIG O TOPIC: Merge Sort Complexity
+========================================
+
+Explanation:
+Merge sort divides the array into logarithmically many levels and processes n elements at every level, resulting in O(n log n) time.
+
+Example:
+Example: An array is repeatedly divided and then merged in sorted order.
+
