@@ -636,3 +636,14 @@ The single-transaction stock problem can be solved by tracking the minimum price
 Example:
 Example: Prices [7,1,5,3,6,4] give maximum profit 5.
 
+
+========================================
+DSA TOPIC: Best Time Multiple Transactions
+========================================
+
+Explanation:
+When multiple stock transactions are allowed, every positive increase between consecutive prices can contribute to the total profit.
+
+Example:
+Example: [1,5,3,6] gives profit from 1 to 5 and 3 to 6.
+
