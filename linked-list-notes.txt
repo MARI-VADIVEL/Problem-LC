@@ -53,3 +53,14 @@ The next pointer stores the reference to the next node. It allows individual nod
 Example:
 Example: If node 10 points to node 20, then node10.next refers to node20.
 
+
+========================================
+LINKED LIST THEORY: Singly Linked List
+========================================
+
+Explanation:
+A singly linked list contains nodes where every node points only to the next node. Traversal normally happens from the head toward the tail.
+
+Example:
+Example: 10 -> 20 -> 30 -> null
+
