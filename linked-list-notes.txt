@@ -405,3 +405,14 @@ The nth node from the end can be found using two pointers separated by n positio
 Example:
 Example: In 1 -> 2 -> 3 -> 4 -> 5, the 2nd node from the end is 4.
 
+
+========================================
+LINKED LIST THEORY: Linked List Length
+========================================
+
+Explanation:
+The length of a linked list is the number of nodes it contains. Without a stored size variable, calculating it requires traversing the list.
+
+Example:
+Example: 10 -> 20 -> 30 has length 3.
+
