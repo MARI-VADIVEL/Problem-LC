@@ -31,3 +31,14 @@ The two pointer technique uses two indices to process an array or string efficie
 Example:
 Example: In a sorted array, left starts at the beginning and right starts at the end.
 
+
+========================================
+DSA TOPIC: Sliding Window
+========================================
+
+Explanation:
+Sliding window maintains a range of elements while moving through an array or string. Instead of repeatedly calculating the same range, the window is updated as it moves. This often gives O(n) solutions.
+
+Example:
+Example: For a fixed window size of 3, move the window one position at a time while updating its sum.
+
