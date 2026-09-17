@@ -680,3 +680,14 @@ A matrix is a two-dimensional data structure arranged using rows and columns. Ma
 Example:
 Example: [[1,2],[3,4]] contains two rows and two columns.
 
+
+========================================
+DSA TOPIC: Matrix Traversal
+========================================
+
+Explanation:
+Matrix traversal visits elements row by row, column by column, or using another defined pattern. Nested loops are commonly used.
+
+Example:
+Example: Row-wise traversal of [[1,2],[3,4]] visits 1,2,3,4.
+
