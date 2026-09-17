@@ -1591,3 +1591,14 @@ Amortized analysis considers the total cost of a sequence of operations rather t
 Example:
 Example: Dynamic array insertion is amortized O(1) even though occasional resizing costs O(n).
 
+
+========================================
+BIG O TOPIC: Nested Logarithmic Loops
+========================================
+
+Explanation:
+When a loop performs O(log n) work inside another O(log n) loop, the combined complexity can be O(log^2 n).
+
+Example:
+Example: Two independent halving processes can produce logarithmic factors.
+
