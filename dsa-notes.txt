@@ -471,3 +471,14 @@ Dynamic programming solves problems by breaking them into overlapping subproblem
 Example:
 Example: Fibonacci values can be stored instead of recalculating the same values.
 
+
+========================================
+DSA TOPIC: Memoization
+========================================
+
+Explanation:
+Memoization is a top-down dynamic programming technique. Results of recursive subproblems are stored so that the same state does not need to be calculated again.
+
+Example:
+Example: Store the result of fibonacci(5) so future calls can reuse it.
+
