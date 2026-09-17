@@ -460,3 +460,14 @@ Topological sorting produces an ordering of vertices in a directed acyclic graph
 Example:
 Example: A course prerequisite can appear before the course that depends on it.
 
+
+========================================
+DSA TOPIC: Dynamic Programming
+========================================
+
+Explanation:
+Dynamic programming solves problems by breaking them into overlapping subproblems and storing previously computed results. It can avoid repeated calculations and improve time complexity.
+
+Example:
+Example: Fibonacci values can be stored instead of recalculating the same values.
+
