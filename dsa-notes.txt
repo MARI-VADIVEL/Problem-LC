@@ -911,3 +911,14 @@ A cycle exists in an undirected graph when a path returns to an already visited 
 Example:
 Example: A-B-C-A forms a cycle.
 
+
+========================================
+DSA TOPIC: Cycle in Directed Graph
+========================================
+
+Explanation:
+A directed graph cycle can be detected using DFS with a recursion-stack state. Finding an edge to a currently active vertex indicates a cycle.
+
+Example:
+Example: A -> B -> C -> A creates a directed cycle.
+
