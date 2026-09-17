@@ -229,3 +229,14 @@ Two strings are anagrams when they contain the same characters with the same fre
 Example:
 Example: "listen" and "silent" are anagrams.
 
+
+========================================
+DSA TOPIC: Frequency Counting
+========================================
+
+Explanation:
+Frequency counting records how many times each value or character occurs. HashMap or arrays are commonly used for this technique. It can turn repeated searching into a single pass.
+
+Example:
+Example: In [1,2,2,3,3,3], the frequency of 3 is 3.
+
