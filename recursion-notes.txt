@@ -383,3 +383,14 @@ The number of nodes in a binary tree can be found by recursively counting nodes 
 Example:
 Example: count = 1 + leftCount + rightCount.
 
+
+========================================
+RECURSION THEORY: Backtracking Introduction
+========================================
+
+Explanation:
+Backtracking is a recursive technique that builds a solution step by step, explores choices, and removes a choice when returning.
+
+Example:
+Example: Generate subsets by choosing whether to include each element.
+
