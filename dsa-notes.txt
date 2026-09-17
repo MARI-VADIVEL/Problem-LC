@@ -1108,3 +1108,14 @@ O(1) means the operation takes approximately the same amount of time regardless 
 Example:
 Example: Accessing arr[5] in an array takes O(1) time.
 
+
+========================================
+BIG O TOPIC: O(log n) Logarithmic Time
+========================================
+
+Explanation:
+O(log n) means the problem size is reduced by a constant factor during each step. This makes the algorithm highly efficient for large inputs.
+
+Example:
+Example: Binary search repeatedly divides the search space into half.
+
