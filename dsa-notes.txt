@@ -768,3 +768,14 @@ BST deletion has three main cases: deleting a leaf, deleting a node with one chi
 Example:
 Example: The inorder successor is the smallest value in the right subtree.
 
+
+========================================
+DSA TOPIC: Tree Height
+========================================
+
+Explanation:
+The height of a tree represents the longest path from the root to a leaf, depending on the chosen height definition. Recursive traversal can calculate it.
+
+Example:
+Example: A tree with three levels has height 2 when height is counted by edges.
+
