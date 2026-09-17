@@ -152,3 +152,14 @@ The sum of numbers from 1 to n can be expressed recursively by adding n to the s
 Example:
 Example: sum(5) = 5 + sum(4).
 
+
+========================================
+RECURSION THEORY: Recursive Power
+========================================
+
+Explanation:
+A number can be raised to a power recursively by multiplying the base by the result for one smaller exponent.
+
+Example:
+Example: power(2,4) = 2 × power(2,3).
+
