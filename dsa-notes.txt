@@ -207,3 +207,14 @@ StringBuilder is used to create and modify strings efficiently. Unlike String, i
 Example:
 Example: StringBuilder can append characters repeatedly while constructing a result.
 
+
+========================================
+DSA TOPIC: Palindrome
+========================================
+
+Explanation:
+A palindrome is a sequence that reads the same from both directions. A common method uses two pointers starting from opposite ends and compares characters.
+
+Example:
+Example: "level" is a palindrome because it reads the same forward and backward.
+
