@@ -262,3 +262,14 @@ A singly linked list node contains data and a reference to the next node. Traver
 Example:
 Example: head -> 10 -> 20 -> 30 -> null.
 
+
+========================================
+DSA TOPIC: Reverse Linked List
+========================================
+
+Explanation:
+Reversing a linked list changes every next reference so that the nodes point toward the previous node. The standard iterative solution uses previous, current, and next references and takes O(n) time.
+
+Example:
+Example: 1 -> 2 -> 3 becomes 3 -> 2 -> 1.
+
