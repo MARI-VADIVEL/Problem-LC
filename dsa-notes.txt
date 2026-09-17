@@ -1163,3 +1163,14 @@ O(n^3) occurs when three independent loops each depend on the input size. Such a
 Example:
 Example: A straightforward three-dimensional matrix traversal can take O(n^3).
 
+
+========================================
+BIG O TOPIC: O(2^n) Exponential Time
+========================================
+
+Explanation:
+O(2^n) means the amount of work roughly doubles when the input increases by one. It commonly appears in brute-force subset problems.
+
+Example:
+Example: Generating every subset of n elements produces 2^n possibilities.
+
