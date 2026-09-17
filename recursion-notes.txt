@@ -86,3 +86,14 @@ Tail recursion occurs when the recursive call is the final significant operation
 Example:
 Example: A recursive factorial can carry the accumulated result as a parameter.
 
+
+========================================
+RECURSION THEORY: Head Recursion
+========================================
+
+Explanation:
+Head recursion occurs when the recursive call happens before the remaining work of the current function.
+
+Example:
+Example: A function recursively processes n-1 before printing n.
+
