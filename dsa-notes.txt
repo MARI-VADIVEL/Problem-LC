@@ -1251,3 +1251,14 @@ Time complexity measures computational work while space complexity measures addi
 Example:
 Example: Storing computed results can increase space usage while reducing repeated computation.
 
+
+========================================
+BIG O TOPIC: Single Loop
+========================================
+
+Explanation:
+A loop that runs once for every element usually has O(n) time complexity. The number of iterations grows linearly with input size.
+
+Example:
+Example: for each element in an array, perform one constant-time operation.
+
