@@ -625,3 +625,14 @@ Kadane's algorithm can be extended to track the starting and ending indices of t
 Example:
 Example: For [1,-2,3,4], the best range is indices 2 to 3.
 
+
+========================================
+DSA TOPIC: Stock Buy and Sell
+========================================
+
+Explanation:
+The single-transaction stock problem can be solved by tracking the minimum price seen so far and calculating the profit from selling at each later price. It takes O(n) time.
+
+Example:
+Example: Prices [7,1,5,3,6,4] give maximum profit 5.
+
