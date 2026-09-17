@@ -262,3 +262,14 @@ The maximum value of an array can be found recursively by comparing the current 
 Example:
 Example: [4,7,2] compares 4 with the maximum of [7,2].
 
+
+========================================
+RECURSION THEORY: Recursive Linear Search
+========================================
+
+Explanation:
+Recursive linear search checks one position at a time and recursively searches the remaining portion of the array.
+
+Example:
+Example: Search index 0, then index 1, and continue until the target is found.
+
