@@ -812,3 +812,14 @@ A min-heap keeps the smallest value at the root. Insertion and deletion of the m
 Example:
 Example: Adding 2 to a min-heap places it according to heap ordering.
 
+
+========================================
+DSA TOPIC: Max Heap
+========================================
+
+Explanation:
+A max-heap keeps the largest value at the root. It is useful when repeatedly retrieving the largest element.
+
+Example:
+Example: A priority queue can use a max-heap to process the highest-priority value first.
+
