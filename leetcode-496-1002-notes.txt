@@ -64,3 +64,14 @@ For this problem, the stack is maintained in decreasing order from bottom to top
 Example:
 Processing [1,3,4,2], 3 causes 1 to get its next greater value as 3.
 
+
+========================================
+THEORY: LC496 Pop Operation
+========================================
+
+Explanation:
+When nums2 contains a value greater than the stack top, repeatedly pop smaller values. The current value becomes the next greater element for every popped value.
+
+Example:
+If the stack contains [5,2] and current value is 7, both 2 and 5 can receive 7 as their next greater element if they are unresolved.
+
