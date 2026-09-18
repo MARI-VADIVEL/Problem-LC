@@ -240,3 +240,14 @@ A HashMap can count characters, but it is unnecessary for lowercase English lett
 Example:
 Using an array also gives constant-size extra space.
 
+
+========================================
+THEORY: LC1002 Building The Result
+========================================
+
+Explanation:
+After processing all words, iterate through the 26 character positions. If the final frequency is k, add that character to the result exactly k times.
+
+Example:
+If l has frequency 2, add l twice.
+
