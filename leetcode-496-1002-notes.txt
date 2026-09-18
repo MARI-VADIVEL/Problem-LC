@@ -119,3 +119,14 @@ After nums2 has been completely processed, values still inside the stack do not 
 Example:
 For [4,2], after processing all elements, both unresolved values receive -1.
 
+
+========================================
+THEORY: LC496 Example Walkthrough
+========================================
+
+Explanation:
+For nums2=[1,3,4,2], start with 1. When 3 appears, pop 1 and record 1->3. Then 3 remains until 4 appears, giving 3->4. The value 2 has no greater value after it, so 2->-1.
+
+Example:
+The final map allows direct answers for nums1.
+
