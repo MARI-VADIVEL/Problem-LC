@@ -218,3 +218,14 @@ Because the problem uses lowercase English letters, a frequency array of size 26
 Example:
 The index for 'a' is 0 and the index for 'z' is 25.
 
+
+========================================
+THEORY: LC1002 Updating Common Counts
+========================================
+
+Explanation:
+Start with the frequency of the first word. For every following word, calculate its frequency and replace each common count with the minimum of the old count and the current count.
+
+Example:
+This gradually keeps only characters that exist in every processed word.
+
