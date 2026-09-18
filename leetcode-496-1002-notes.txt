@@ -97,3 +97,14 @@ The stack discovers answers while processing nums2, but nums1 asks for answers i
 Example:
 This avoids searching nums2 again for every nums1 element.
 
+
+========================================
+THEORY: LC496 Processing nums2 First
+========================================
+
+Explanation:
+nums2 must be processed before constructing the final nums1 answer because nums2 contains the complete information needed to determine each next greater element.
+
+Example:
+Once the map is complete, nums1 can be processed in O(nums1.length).
+
