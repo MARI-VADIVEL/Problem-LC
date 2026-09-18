@@ -174,3 +174,14 @@ The original problem guarantees that nums1 contains unique values and nums2 cont
 Example:
 If duplicates were allowed, the problem would require additional handling based on positions.
 
+
+========================================
+THEORY: LC1002 Problem Understanding
+========================================
+
+Explanation:
+Find Common Characters asks us to return characters that appear in every string in the input array. If a character appears multiple times in every string, it must appear multiple times in the answer.
+
+Example:
+For words=['bella','label','roller'], the common characters are e, l, l.
+
