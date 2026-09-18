@@ -251,3 +251,14 @@ After processing all words, iterate through the 26 character positions. If the f
 Example:
 If l has frequency 2, add l twice.
 
+
+========================================
+THEORY: LC1002 Complexity
+========================================
+
+Explanation:
+Let n be the number of strings and L be the total number of characters across all strings. The frequency-counting solution takes O(L) time because every character is processed a constant number of times.
+
+Example:
+The frequency arrays use O(26), which is constant extra space apart from the output.
+
