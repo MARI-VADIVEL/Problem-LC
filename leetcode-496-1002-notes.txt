@@ -163,3 +163,14 @@ A common mistake is finding any greater element instead of the next greater elem
 Example:
 For [2,4,3,5], the answer for 2 is 4, not 5.
 
+
+========================================
+THEORY: LC496 Duplicate Consideration
+========================================
+
+Explanation:
+The original problem guarantees that nums1 contains unique values and nums2 contains unique values. This allows the answer to be stored directly using the value as a HashMap key.
+
+Example:
+If duplicates were allowed, the problem would require additional handling based on positions.
+
