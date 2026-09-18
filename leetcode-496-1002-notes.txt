@@ -31,3 +31,14 @@ The brute-force solution may repeatedly search nums2 for each nums1 element and 
 Example:
 Repeated scanning becomes inefficient when the arrays contain many elements.
 
+
+========================================
+THEORY: LC496 Next Greater Element Meaning
+========================================
+
+Explanation:
+The word next means the first greater value encountered while moving from left to right after the current element. We must not skip a smaller greater candidate to find a later larger value.
+
+Example:
+For [2,5,3,7], the next greater element of 2 is 5, not 7.
+
