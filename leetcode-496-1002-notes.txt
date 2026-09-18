@@ -86,3 +86,14 @@ A HashMap stores the answer for each value in nums2. After processing nums2, we 
 Example:
 Example mapping can contain 1->3, 3->4, 4->-1, and 2->-1.
 
+
+========================================
+THEORY: LC496 Why HashMap Is Needed
+========================================
+
+Explanation:
+The stack discovers answers while processing nums2, but nums1 asks for answers in a different order. A HashMap connects each nums2 value with its computed next greater value.
+
+Example:
+This avoids searching nums2 again for every nums1 element.
+
