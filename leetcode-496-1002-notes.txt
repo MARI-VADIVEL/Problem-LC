@@ -229,3 +229,14 @@ Start with the frequency of the first word. For every following word, calculate 
 Example:
 This gradually keeps only characters that exist in every processed word.
 
+
+========================================
+THEORY: LC1002 Why HashMap Is Optional
+========================================
+
+Explanation:
+A HashMap can count characters, but it is unnecessary for lowercase English letters because a fixed array of size 26 is simpler and faster.
+
+Example:
+Using an array also gives constant-size extra space.
+
