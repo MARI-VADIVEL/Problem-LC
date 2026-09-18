@@ -53,3 +53,14 @@ A monotonic stack helps solve Next Greater Element problems efficiently. We proc
 Example:
 When a larger value appears, it can resolve smaller values waiting in the stack.
 
+
+========================================
+THEORY: LC496 Decreasing Stack
+========================================
+
+Explanation:
+For this problem, the stack is maintained in decreasing order from bottom to top. When the current number is greater than the stack top, the stack top has found its next greater element.
+
+Example:
+Processing [1,3,4,2], 3 causes 1 to get its next greater value as 3.
+
