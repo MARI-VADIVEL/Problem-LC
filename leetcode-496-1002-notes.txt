@@ -185,3 +185,14 @@ Find Common Characters asks us to return characters that appear in every string 
 Example:
 For words=['bella','label','roller'], the common characters are e, l, l.
 
+
+========================================
+THEORY: LC1002 Frequency Counting
+========================================
+
+Explanation:
+The key idea is to count how many times each letter occurs in every word. For each character, keep the smallest frequency found across all strings.
+
+Example:
+If a character occurs 2 times in one word and 1 time in another, only 1 copy can be common.
+
