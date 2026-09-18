@@ -20,3 +20,14 @@ For every value in nums1, first locate the same value in nums2. Then scan elemen
 Example:
 For 4 in [1,3,4,2], there is no greater element after 4, so the answer is -1.
 
+
+========================================
+THEORY: LC496 Why Brute Force Is Slow
+========================================
+
+Explanation:
+The brute-force solution may repeatedly search nums2 for each nums1 element and then scan to the right. In the worst case this can take O(nums1.length * nums2.length) time.
+
+Example:
+Repeated scanning becomes inefficient when the arrays contain many elements.
+
