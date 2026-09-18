@@ -75,3 +75,14 @@ When nums2 contains a value greater than the stack top, repeatedly pop smaller v
 Example:
 If the stack contains [5,2] and current value is 7, both 2 and 5 can receive 7 as their next greater element if they are unresolved.
 
+
+========================================
+THEORY: LC496 HashMap Mapping
+========================================
+
+Explanation:
+A HashMap stores the answer for each value in nums2. After processing nums2, we can directly look up the answer for every value in nums1.
+
+Example:
+Example mapping can contain 1->3, 3->4, 4->-1, and 2->-1.
+
