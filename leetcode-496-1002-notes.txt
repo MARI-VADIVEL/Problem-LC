@@ -108,3 +108,14 @@ nums2 must be processed before constructing the final nums1 answer because nums2
 Example:
 Once the map is complete, nums1 can be processed in O(nums1.length).
 
+
+========================================
+THEORY: LC496 Remaining Stack Elements
+========================================
+
+Explanation:
+After nums2 has been completely processed, values still inside the stack do not have any greater element to their right. Their answer is therefore -1.
+
+Example:
+For [4,2], after processing all elements, both unresolved values receive -1.
+
