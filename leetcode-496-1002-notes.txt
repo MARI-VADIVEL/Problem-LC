@@ -141,3 +141,14 @@ The monotonic-stack solution runs in O(n+m), where n is nums1.length and m is nu
 Example:
 Extra space is O(m) for the stack and HashMap.
 
+
+========================================
+THEORY: LC496 Why Each Element Is Popped Once
+========================================
+
+Explanation:
+Although there is a while loop inside the main loop, the algorithm is still linear because an element that is popped can never return to the stack.
+
+Example:
+Therefore the total number of stack pops is at most nums2.length.
+
