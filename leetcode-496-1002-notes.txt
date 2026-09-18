@@ -42,3 +42,14 @@ The word next means the first greater value encountered while moving from left t
 Example:
 For [2,5,3,7], the next greater element of 2 is 5, not 7.
 
+
+========================================
+THEORY: LC496 Monotonic Stack Idea
+========================================
+
+Explanation:
+A monotonic stack helps solve Next Greater Element problems efficiently. We process nums2 and maintain values whose next greater element has not been found yet.
+
+Example:
+When a larger value appears, it can resolve smaller values waiting in the stack.
+
