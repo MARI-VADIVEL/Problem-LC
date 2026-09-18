@@ -152,3 +152,14 @@ Although there is a while loop inside the main loop, the algorithm is still line
 Example:
 Therefore the total number of stack pops is at most nums2.length.
 
+
+========================================
+THEORY: LC496 Common Mistake
+========================================
+
+Explanation:
+A common mistake is finding any greater element instead of the next greater element. The algorithm must use the first greater value encountered to the right.
+
+Example:
+For [2,4,3,5], the answer for 2 is 4, not 5.
+
