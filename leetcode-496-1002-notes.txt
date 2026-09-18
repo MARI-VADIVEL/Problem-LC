@@ -207,3 +207,14 @@ The common frequency of a character is the minimum frequency among all strings. 
 Example:
 For frequencies l=[2,2,2], two l characters are common. If frequencies are [2,1,3], only one l is common.
 
+
+========================================
+THEORY: LC1002 Frequency Array
+========================================
+
+Explanation:
+Because the problem uses lowercase English letters, a frequency array of size 26 is sufficient. Character c can be converted to an index using c-'a'.
+
+Example:
+The index for 'a' is 0 and the index for 'z' is 25.
+
