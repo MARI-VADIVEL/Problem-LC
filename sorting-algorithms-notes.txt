@@ -515,3 +515,14 @@ We can sort objects based on one of their properties. For example, students can 
 Example:
 Students with marks 90,70,80 -> 70,80,90
 
+
+========================================
+THEORY: Custom Comparator
+========================================
+
+Explanation:
+A Comparator lets us decide our own sorting rule instead of using the normal order.
+
+Example:
+cat, a, apple -> sort by length -> a, cat, apple
+
