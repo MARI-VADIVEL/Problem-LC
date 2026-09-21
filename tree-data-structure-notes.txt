@@ -106,3 +106,7 @@ Example: Example: For root 5, values 2 and 3 can be on the left, while 7 and 8 c
 BST Search
 Explanation: Searching in a BST compares the target with the current node and chooses left or right.
 Example: Example: To find 7 in root 5, move right.
+
+BST Insertion
+Explanation: To insert into a BST, compare the new value with each node until an empty position is found.
+Example: Example: Insert 6 into 5,7 by moving right from 5 and then left from 7.
