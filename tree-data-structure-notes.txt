@@ -98,3 +98,7 @@ Example: Example: An AVL tree automatically maintains balance.
 Skewed Tree
 Explanation: A skewed tree is a tree where nodes mostly continue in one direction.
 Example: Example: 1 -> 2 -> 3 -> 4 behaves almost like a linked list.
+
+Binary Search Tree
+Explanation: A Binary Search Tree keeps smaller values on the left and larger values on the right.
+Example: Example: For root 5, values 2 and 3 can be on the left, while 7 and 8 can be on the right.
