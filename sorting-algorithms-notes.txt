@@ -1,0 +1,11 @@
+
+========================================
+THEORY: Sorting Basics
+========================================
+
+Explanation:
+Sorting means arranging the elements in some order. Most of the time we sort from small to big.
+
+Example:
+[5,2,8,1] -> [1,2,5,8]
+
