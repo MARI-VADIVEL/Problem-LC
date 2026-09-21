@@ -64,3 +64,14 @@ We can use a boolean variable to check whether a swap happened. If no swap happe
 Example:
 [1,2,3,4] -> no swap -> stop
 
+
+========================================
+THEORY: Bubble Sort Complexity
+========================================
+
+Explanation:
+Bubble Sort normally takes O(n^2) time because many comparisons are done. If the array is already sorted and we use the swap check, it can take O(n).
+
+Example:
+[1,2,3,4,5] -> only one pass is needed
+
