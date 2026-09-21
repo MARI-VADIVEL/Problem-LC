@@ -295,3 +295,14 @@ In a Max Heap, the parent is greater than or equal to its children. So the bigge
 Example:
 [4,2,3,1] -> 4 is at the root
 
+
+========================================
+THEORY: Min Heap
+========================================
+
+Explanation:
+In a Min Heap, the parent is smaller than or equal to its children. So the smallest value stays at the top.
+
+Example:
+[1,2,3,4] -> 1 is at the root
+
