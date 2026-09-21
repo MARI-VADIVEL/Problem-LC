@@ -22,3 +22,7 @@ Example: Example: In 1 -> 2,3, nodes 2 and 3 are leaves.
 Internal Node
 Explanation: An internal node is a node that has at least one child.
 Example: Example: If 1 has children 2 and 3, node 1 is an internal node.
+
+Edge
+Explanation: An edge is the connection between two nodes in a tree.
+Example: Example: The connection between 1 and 2 is one edge.
