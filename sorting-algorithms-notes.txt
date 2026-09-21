@@ -251,3 +251,14 @@ Partitioning means rearranging the elements around the pivot. After partitioning
 Example:
 [4,2,7,1] -> [2,1] 4 [7]
 
+
+========================================
+THEORY: Quick Sort Complexity
+========================================
+
+Explanation:
+Quick Sort usually takes O(n log n), but a bad pivot can make it O(n^2). Choosing a good pivot helps avoid very unbalanced parts.
+
+Example:
+[1,2,3,4,5] with a bad pivot can create unbalanced partitions
+
