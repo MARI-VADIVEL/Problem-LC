@@ -229,3 +229,14 @@ Choose one element as a pivot. Put smaller elements on one side and bigger eleme
 Example:
 [5,2,8,1] with pivot 5 -> [2,1] 5 [8]
 
+
+========================================
+THEORY: Quick Sort Pivot
+========================================
+
+Explanation:
+The pivot is the element we use to divide the array. It can be the first element, last element, middle element, or chosen randomly.
+
+Example:
+[4,2,7,1] -> choose 4 as pivot
+
