@@ -142,3 +142,7 @@ Example: Example: Start with root, process its children, then their children.
 Recursive Tree Traversal
 Explanation: Recursion is commonly used for tree traversal because every subtree is itself a smaller tree.
 Example: Example: Visit left subtree, process node, then visit right subtree.
+
+Iterative Tree Traversal
+Explanation: Tree traversal can also be done without recursion by using an explicit stack.
+Example: Example: Iterative preorder traversal uses a stack to remember nodes.
