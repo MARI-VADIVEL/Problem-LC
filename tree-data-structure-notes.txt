@@ -10,3 +10,7 @@ Example: Example: In 1 -> 2,3, node 1 is the root.
 Parent Node
 Explanation: A parent is a node that has one or more child nodes connected below it.
 Example: Example: If 1 connects to 2 and 3, then 1 is the parent of 2 and 3.
+
+Child Node
+Explanation: A child is a node directly connected below another node.
+Example: Example: If 1 has 2 as its child, then 2 is the child of 1.
