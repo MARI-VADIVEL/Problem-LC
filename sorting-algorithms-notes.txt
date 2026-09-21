@@ -317,3 +317,14 @@ Building and repeatedly adjusting the heap gives Heap Sort O(n log n) time.
 Example:
 [5,3,1,4,2] -> repeatedly remove the maximum
 
+
+========================================
+THEORY: Heap Sort Space
+========================================
+
+Explanation:
+Heap Sort can work directly inside the original array, so it uses O(1) extra array space.
+
+Example:
+The heap is created inside the same array.
+
