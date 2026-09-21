@@ -114,3 +114,7 @@ Example: Example: Insert 6 into 5,7 by moving right from 5 and then left from 7.
 BST Deletion
 Explanation: BST deletion has three cases: deleting a leaf, deleting a node with one child, and deleting a node with two children.
 Example: Example: A node with two children can be replaced by its inorder successor.
+
+Inorder Traversal
+Explanation: Inorder visits Left, Root, Right. In a BST, inorder traversal produces values in sorted order.
+Example: Example: Tree 2 with children 1 and 3 gives 1,2,3.
