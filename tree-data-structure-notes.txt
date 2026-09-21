@@ -162,3 +162,7 @@ Example: Example: count = 1 + leftCount + rightCount.
 Sum of Tree Values
 Explanation: The sum of a tree is found by adding every node value.
 Example: Example: Values 1,2,3 give sum 6.
+
+Find Maximum Value
+Explanation: To find the maximum value, compare the current node with the maximum values from both subtrees.
+Example: Example: Values 4,9,2 give maximum 9.
