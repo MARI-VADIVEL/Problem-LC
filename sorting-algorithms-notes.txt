@@ -328,3 +328,14 @@ Heap Sort can work directly inside the original array, so it uses O(1) extra arr
 Example:
 The heap is created inside the same array.
 
+
+========================================
+THEORY: Counting Sort
+========================================
+
+Explanation:
+Instead of comparing elements, Counting Sort counts how many times each value appears and then creates the sorted array.
+
+Example:
+[2,1,2,3] -> counts -> [1,2,2,3]
+
