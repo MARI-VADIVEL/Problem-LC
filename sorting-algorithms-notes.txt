@@ -174,3 +174,14 @@ We keep dividing the array into two parts until each part has only one element.
 Example:
 [8,4,2,6] -> [8,4] [2,6] -> [8][4][2][6]
 
+
+========================================
+THEORY: Merge Sort Merge
+========================================
+
+Explanation:
+After dividing, we compare the elements from the two sorted parts and put the smaller one into the result.
+
+Example:
+[1,4] and [2,3] -> [1,2,3,4]
+
