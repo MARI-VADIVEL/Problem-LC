@@ -471,3 +471,14 @@ Comparison sorting works by comparing elements to decide which one should come f
 Example:
 Merge Sort compares values from the left and right parts.
 
+
+========================================
+THEORY: Non-comparison Sorting
+========================================
+
+Explanation:
+Some sorting algorithms do not compare every pair of elements. They use information like value ranges or digits.
+
+Example:
+Counting Sort uses the frequency of each value.
+
