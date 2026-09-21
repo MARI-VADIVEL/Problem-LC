@@ -372,3 +372,14 @@ Radix Sort sorts numbers digit by digit. It normally starts from the last digit 
 Example:
 [170,45,75,90] -> sort by units, then tens, then hundreds
 
+
+========================================
+THEORY: Radix Sort Digits
+========================================
+
+Explanation:
+Each round groups numbers based on one digit. The previous ordering is kept while processing the next digit.
+
+Example:
+45 and 75 both have units digit 5, so their previous order is maintained.
+
