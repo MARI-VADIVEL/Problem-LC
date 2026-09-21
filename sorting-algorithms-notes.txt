@@ -493,3 +493,14 @@ An adaptive sorting algorithm can take advantage of an array that is already par
 Example:
 [1,2,3,5,4] -> Insertion Sort only needs to move 5.
 
+
+========================================
+THEORY: Sorting Nearly Sorted Data
+========================================
+
+Explanation:
+When only a few elements are in the wrong position, Insertion Sort can be a good choice because it needs only a few shifts.
+
+Example:
+[1,2,3,5,4] -> move 4 before 5
+
