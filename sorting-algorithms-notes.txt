@@ -383,3 +383,14 @@ Each round groups numbers based on one digit. The previous ordering is kept whil
 Example:
 45 and 75 both have units digit 5, so their previous order is maintained.
 
+
+========================================
+THEORY: Radix Sort Complexity
+========================================
+
+Explanation:
+Radix Sort depends on the number of digits. Its common complexity is O(d(n+k)), where d is the number of digits.
+
+Example:
+For 4-digit numbers, d is 4.
+
