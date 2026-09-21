@@ -26,3 +26,7 @@ Example: Example: If 1 has children 2 and 3, node 1 is an internal node.
 Edge
 Explanation: An edge is the connection between two nodes in a tree.
 Example: Example: The connection between 1 and 2 is one edge.
+
+Path
+Explanation: A path is a sequence of nodes connected through edges.
+Example: Example: 1 -> 2 -> 5 is a path from 1 to 5.
