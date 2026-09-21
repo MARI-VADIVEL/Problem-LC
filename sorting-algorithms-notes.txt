@@ -20,3 +20,14 @@ Ascending means the smaller value comes first and the bigger value comes later.
 Example:
 [4,1,3,2] -> [1,2,3,4]
 
+
+========================================
+THEORY: Descending Order
+========================================
+
+Explanation:
+Descending is the opposite of ascending. We start with the biggest value.
+
+Example:
+[4,1,3,2] -> [4,3,2,1]
+
