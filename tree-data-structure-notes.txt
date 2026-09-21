@@ -186,3 +186,7 @@ Example: Example: Both trees must have matching left and right structures.
 Check Symmetric Tree
 Explanation: A tree is symmetric when its left and right sides are mirror images of each other.
 Example: Example: Left subtree 2 with child 3 must match the mirrored right subtree.
+
+AVL Tree
+Explanation: An AVL tree is a self-balancing Binary Search Tree. After insertion or deletion, rotations can be used to maintain balance.
+Example: Example: LL imbalance can be fixed using a right rotation.
