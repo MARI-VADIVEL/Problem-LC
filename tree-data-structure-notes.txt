@@ -86,3 +86,7 @@ Example: Example: A node cannot have only one child.
 Complete Binary Tree
 Explanation: A complete binary tree has all levels completely filled except possibly the last level, which is filled from left to right.
 Example: Example: This structure is commonly used for heaps.
+
+Perfect Binary Tree
+Explanation: A perfect binary tree has every internal node with two children and all leaves at the same level.
+Example: Example: A perfect tree with height 2 has 7 nodes.
