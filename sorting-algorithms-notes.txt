@@ -240,3 +240,14 @@ The pivot is the element we use to divide the array. It can be the first element
 Example:
 [4,2,7,1] -> choose 4 as pivot
 
+
+========================================
+THEORY: Quick Sort Partition
+========================================
+
+Explanation:
+Partitioning means rearranging the elements around the pivot. After partitioning, the pivot is placed in its correct position.
+
+Example:
+[4,2,7,1] -> [2,1] 4 [7]
+
