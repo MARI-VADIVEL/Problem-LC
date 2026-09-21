@@ -53,3 +53,14 @@ One pass means going through the array once and comparing the neighbouring eleme
 Example:
 [4,2,3] -> after a pass, 4 moves to the end
 
+
+========================================
+THEORY: Optimized Bubble Sort
+========================================
+
+Explanation:
+We can use a boolean variable to check whether a swap happened. If no swap happened, the array is already sorted and we can stop.
+
+Example:
+[1,2,3,4] -> no swap -> stop
+
