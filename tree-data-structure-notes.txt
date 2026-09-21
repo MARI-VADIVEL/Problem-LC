@@ -90,3 +90,7 @@ Example: Example: This structure is commonly used for heaps.
 Perfect Binary Tree
 Explanation: A perfect binary tree has every internal node with two children and all leaves at the same level.
 Example: Example: A perfect tree with height 2 has 7 nodes.
+
+Balanced Binary Tree
+Explanation: A balanced tree keeps the heights of left and right subtrees reasonably close.
+Example: Example: An AVL tree automatically maintains balance.
