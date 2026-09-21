@@ -138,3 +138,7 @@ Example: Example: Recursive traversal naturally performs DFS.
 BFS on Tree
 Explanation: Breadth First Search visits nodes level by level. A queue is normally used.
 Example: Example: Start with root, process its children, then their children.
+
+Recursive Tree Traversal
+Explanation: Recursion is commonly used for tree traversal because every subtree is itself a smaller tree.
+Example: Example: Visit left subtree, process node, then visit right subtree.
