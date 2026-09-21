@@ -146,3 +146,7 @@ Example: Example: Visit left subtree, process node, then visit right subtree.
 Iterative Tree Traversal
 Explanation: Tree traversal can also be done without recursion by using an explicit stack.
 Example: Example: Iterative preorder traversal uses a stack to remember nodes.
+
+Tree Node in Java
+Explanation: A binary tree node in Java normally stores a value and references to left and right children.
+Example: Example: int val; TreeNode left; TreeNode right;
