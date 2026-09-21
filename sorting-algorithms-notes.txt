@@ -284,3 +284,14 @@ Heap Sort first makes a heap. Then it takes the largest element from the heap an
 Example:
 [4,1,3,2] -> build max heap -> move largest to end
 
+
+========================================
+THEORY: Max Heap
+========================================
+
+Explanation:
+In a Max Heap, the parent is greater than or equal to its children. So the biggest value stays at the top.
+
+Example:
+[4,2,3,1] -> 4 is at the root
+
