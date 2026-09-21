@@ -306,3 +306,14 @@ In a Min Heap, the parent is smaller than or equal to its children. So the small
 Example:
 [1,2,3,4] -> 1 is at the root
 
+
+========================================
+THEORY: Heap Sort Complexity
+========================================
+
+Explanation:
+Building and repeatedly adjusting the heap gives Heap Sort O(n log n) time.
+
+Example:
+[5,3,1,4,2] -> repeatedly remove the maximum
+
