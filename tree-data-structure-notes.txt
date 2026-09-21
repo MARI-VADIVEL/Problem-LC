@@ -130,3 +130,7 @@ Example: Example: Tree 1 with children 2 and 3 gives 2,3,1.
 Level Order Traversal
 Explanation: Level order visits nodes level by level from top to bottom. It normally uses a queue.
 Example: Example: Tree 1 with children 2,3 gives 1,2,3.
+
+DFS on Tree
+Explanation: Depth First Search goes deep into one branch before coming back. Preorder, inorder, and postorder are DFS traversals.
+Example: Example: Recursive traversal naturally performs DFS.
