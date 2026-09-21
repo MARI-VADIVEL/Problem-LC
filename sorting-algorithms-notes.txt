@@ -97,3 +97,14 @@ In every round, we search for the minimum value and remember its index. At the e
 Example:
 [5,3,2,4] -> minimum is 2
 
+
+========================================
+THEORY: Selection Sort Complexity
+========================================
+
+Explanation:
+Selection Sort always searches the remaining elements, so it takes O(n^2) time. It does not become much faster even when the array is already sorted.
+
+Example:
+[1,2,3,4] -> still performs comparisons
+
