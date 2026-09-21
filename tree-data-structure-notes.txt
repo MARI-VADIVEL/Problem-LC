@@ -174,3 +174,7 @@ Example: Example: In a tree, if 2 and 3 are children of 1, their LCA is 1.
 Diameter of Tree
 Explanation: The diameter is the longest path between any two nodes in the tree.
 Example: Example: The longest path may pass through the root or through another internal node.
+
+Mirror of Tree
+Explanation: A mirror tree swaps the left and right children at every node.
+Example: Example: If a node has left 2 and right 3, after mirroring left becomes 3 and right becomes 2.
