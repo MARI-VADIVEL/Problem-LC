@@ -42,3 +42,7 @@ Example: Example: If the longest path is 1 -> 2 -> 4, the height is 2.
 Height of Node
 Explanation: The height of a node is the longest path from that node down to a leaf.
 Example: Example: A leaf has height 0.
+
+Subtree
+Explanation: A subtree is a smaller tree formed from a node and all of its descendants.
+Example: Example: If 2 has children 4 and 5, then 2 with 4 and 5 forms a subtree.
