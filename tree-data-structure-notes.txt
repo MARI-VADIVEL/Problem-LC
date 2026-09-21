@@ -190,3 +190,7 @@ Example: Example: Left subtree 2 with child 3 must match the mirrored right subt
 AVL Tree
 Explanation: An AVL tree is a self-balancing Binary Search Tree. After insertion or deletion, rotations can be used to maintain balance.
 Example: Example: LL imbalance can be fixed using a right rotation.
+
+Heap
+Explanation: A heap is a complete binary tree that follows a special ordering rule.
+Example: Example: In a min heap, the smallest value is always at the root.
