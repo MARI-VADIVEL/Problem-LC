@@ -94,3 +94,7 @@ Example: Example: A perfect tree with height 2 has 7 nodes.
 Balanced Binary Tree
 Explanation: A balanced tree keeps the heights of left and right subtrees reasonably close.
 Example: Example: An AVL tree automatically maintains balance.
+
+Skewed Tree
+Explanation: A skewed tree is a tree where nodes mostly continue in one direction.
+Example: Example: 1 -> 2 -> 3 -> 4 behaves almost like a linked list.
