@@ -74,3 +74,7 @@ Example: Example: Node 1 can have left child 2 and right child 3.
 Left Child
 Explanation: In a binary tree, the left child is the node connected on the left side of its parent.
 Example: Example: If 2 is the left child of 1, then 1.left points to 2.
+
+Right Child
+Explanation: In a binary tree, the right child is the node connected on the right side of its parent.
+Example: Example: If 3 is the right child of 1, then 1.right points to 3.
