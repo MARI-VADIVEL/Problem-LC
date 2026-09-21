@@ -526,3 +526,14 @@ A Comparator lets us decide our own sorting rule instead of using the normal ord
 Example:
 cat, a, apple -> sort by length -> a, cat, apple
 
+
+========================================
+THEORY: Java Arrays.sort
+========================================
+
+Explanation:
+Java already provides Arrays.sort() to sort arrays. For an integer array, it sorts the values in ascending order.
+
+Example:
+int[] a={4,2,1,3}; Arrays.sort(a); -> [1,2,3,4]
+
