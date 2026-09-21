@@ -460,3 +460,14 @@ An in-place algorithm changes the original array instead of creating another lar
 Example:
 Selection Sort rearranges the same array.
 
+
+========================================
+THEORY: Comparison Sorting
+========================================
+
+Explanation:
+Comparison sorting works by comparing elements to decide which one should come first.
+
+Example:
+Merge Sort compares values from the left and right parts.
+
