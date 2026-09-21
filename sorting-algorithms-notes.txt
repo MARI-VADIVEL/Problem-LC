@@ -339,3 +339,14 @@ Instead of comparing elements, Counting Sort counts how many times each value ap
 Example:
 [2,1,2,3] -> counts -> [1,2,2,3]
 
+
+========================================
+THEORY: Counting Sort Range
+========================================
+
+Explanation:
+Counting Sort works well when the numbers are in a small range. We create an array based on that range.
+
+Example:
+[1,4,2,1] -> values are only from 1 to 4
+
