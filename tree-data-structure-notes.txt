@@ -182,3 +182,7 @@ Example: Example: If a node has left 2 and right 3, after mirroring left becomes
 Check Same Tree
 Explanation: Two trees are the same when their structure and corresponding node values are equal.
 Example: Example: Both trees must have matching left and right structures.
+
+Check Symmetric Tree
+Explanation: A tree is symmetric when its left and right sides are mirror images of each other.
+Example: Example: Left subtree 2 with child 3 must match the mirrored right subtree.
