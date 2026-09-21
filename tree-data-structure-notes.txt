@@ -46,3 +46,7 @@ Example: Example: A leaf has height 0.
 Subtree
 Explanation: A subtree is a smaller tree formed from a node and all of its descendants.
 Example: Example: If 2 has children 4 and 5, then 2 with 4 and 5 forms a subtree.
+
+Ancestor
+Explanation: An ancestor is any node that comes before another node on its path to the root.
+Example: Example: For 4 in 1 -> 2 -> 4, nodes 1 and 2 are ancestors.
