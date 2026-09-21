@@ -163,3 +163,14 @@ Merge Sort first breaks the array into smaller parts. Then it sorts and joins th
 Example:
 [4,1,3,2] -> [4,1] [3,2] -> [1,4] [2,3] -> [1,2,3,4]
 
+
+========================================
+THEORY: Merge Sort Divide
+========================================
+
+Explanation:
+We keep dividing the array into two parts until each part has only one element.
+
+Example:
+[8,4,2,6] -> [8,4] [2,6] -> [8][4][2][6]
+
