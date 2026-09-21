@@ -119,3 +119,14 @@ Take one element and insert it into the correct place in the already sorted part
 Example:
 [5,2,4] -> [2,5,4] -> [2,4,5]
 
+
+========================================
+THEORY: Insertion Sort Shifting
+========================================
+
+Explanation:
+Before inserting the current element, bigger elements are shifted one position to the right.
+
+Example:
+[2,5,4] -> move 5 right -> insert 4
+
