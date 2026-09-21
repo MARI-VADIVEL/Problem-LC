@@ -394,3 +394,14 @@ Radix Sort depends on the number of digits. Its common complexity is O(d(n+k)), 
 Example:
 For 4-digit numbers, d is 4.
 
+
+========================================
+THEORY: Bucket Sort
+========================================
+
+Explanation:
+Bucket Sort puts values into different buckets. Each bucket is sorted separately and then all buckets are joined.
+
+Example:
+[0.42,0.32,0.75] -> put values into buckets -> sort -> combine
+
