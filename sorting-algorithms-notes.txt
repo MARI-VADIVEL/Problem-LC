@@ -405,3 +405,14 @@ Bucket Sort puts values into different buckets. Each bucket is sorted separately
 Example:
 [0.42,0.32,0.75] -> put values into buckets -> sort -> combine
 
+
+========================================
+THEORY: Bucket Sort Distribution
+========================================
+
+Explanation:
+The values are divided into buckets based on their range. Values that are close to each other usually go into the same bucket.
+
+Example:
+0.1 and 0.2 can go into the same bucket range.
+
