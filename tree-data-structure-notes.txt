@@ -62,3 +62,7 @@ Example: Example: If node 1 has three children, its degree is 3.
 Degree of Tree
 Explanation: The degree of a tree is the maximum degree of any node in that tree.
 Example: Example: If the largest number of children of one node is 3, tree degree is 3.
+
+Tree with One Node
+Explanation: A tree can contain only one node. That node is both the root and a leaf.
+Example: Example: Tree = 1.
