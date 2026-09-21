@@ -350,3 +350,14 @@ Counting Sort works well when the numbers are in a small range. We create an arr
 Example:
 [1,4,2,1] -> values are only from 1 to 4
 
+
+========================================
+THEORY: Counting Sort Complexity
+========================================
+
+Explanation:
+Counting Sort takes O(n+k), where n is the number of elements and k is the range of values.
+
+Example:
+100 elements with values from 0 to 50 -> n=100, k=51
+
