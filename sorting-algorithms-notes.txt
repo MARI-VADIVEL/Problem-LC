@@ -361,3 +361,14 @@ Counting Sort takes O(n+k), where n is the number of elements and k is the range
 Example:
 100 elements with values from 0 to 50 -> n=100, k=51
 
+
+========================================
+THEORY: Radix Sort
+========================================
+
+Explanation:
+Radix Sort sorts numbers digit by digit. It normally starts from the last digit and moves toward the first digit.
+
+Example:
+[170,45,75,90] -> sort by units, then tens, then hundreds
+
