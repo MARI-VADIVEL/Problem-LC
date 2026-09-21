@@ -130,3 +130,14 @@ Before inserting the current element, bigger elements are shifted one position t
 Example:
 [2,5,4] -> move 5 right -> insert 4
 
+
+========================================
+THEORY: Insertion Sort Complexity
+========================================
+
+Explanation:
+Insertion Sort can take O(n^2) in the worst case. When the array is almost sorted, it can work much faster.
+
+Example:
+[1,2,3,5,4] needs only a small shift
+
