@@ -218,3 +218,14 @@ Merge Sort can be stable if we take the element from the left side first when bo
 Example:
 [A(2),B(2)] -> A stays before B
 
+
+========================================
+THEORY: Quick Sort
+========================================
+
+Explanation:
+Choose one element as a pivot. Put smaller elements on one side and bigger elements on the other side. Then repeat the same process for both parts.
+
+Example:
+[5,2,8,1] with pivot 5 -> [2,1] 5 [8]
+
