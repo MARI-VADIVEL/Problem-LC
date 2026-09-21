@@ -207,3 +207,14 @@ Normal Merge Sort needs an extra array while merging the two parts. So its extra
 Example:
 For a bigger array, temporary space is used during merging.
 
+
+========================================
+THEORY: Merge Sort Stability
+========================================
+
+Explanation:
+Merge Sort can be stable if we take the element from the left side first when both values are equal.
+
+Example:
+[A(2),B(2)] -> A stays before B
+
