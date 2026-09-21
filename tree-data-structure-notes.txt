@@ -118,3 +118,7 @@ Example: Example: A node with two children can be replaced by its inorder succes
 Inorder Traversal
 Explanation: Inorder visits Left, Root, Right. In a BST, inorder traversal produces values in sorted order.
 Example: Example: Tree 2 with children 1 and 3 gives 1,2,3.
+
+Preorder Traversal
+Explanation: Preorder visits Root, Left, Right.
+Example: Example: Tree 1 with children 2 and 3 gives 1,2,3.
