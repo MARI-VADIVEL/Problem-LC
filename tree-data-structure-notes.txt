@@ -194,3 +194,7 @@ Example: Example: LL imbalance can be fixed using a right rotation.
 Heap
 Explanation: A heap is a complete binary tree that follows a special ordering rule.
 Example: Example: In a min heap, the smallest value is always at the root.
+
+Min Heap and Max Heap
+Explanation: A min heap keeps the smallest value at the root, while a max heap keeps the largest value at the root.
+Example: Example: Min heap root = 1, max heap root = 9.
