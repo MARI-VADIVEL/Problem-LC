@@ -141,3 +141,14 @@ Insertion Sort can take O(n^2) in the worst case. When the array is almost sorte
 Example:
 [1,2,3,5,4] needs only a small shift
 
+
+========================================
+THEORY: Insertion Sort Stability
+========================================
+
+Explanation:
+Insertion Sort can keep equal elements in the same order they were originally in. This is called stable sorting.
+
+Example:
+[A(2),B(2)] -> [A(2),B(2)]
+
