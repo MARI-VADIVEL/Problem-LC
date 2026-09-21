@@ -178,3 +178,7 @@ Example: Example: The longest path may pass through the root or through another 
 Mirror of Tree
 Explanation: A mirror tree swaps the left and right children at every node.
 Example: Example: If a node has left 2 and right 3, after mirroring left becomes 3 and right becomes 2.
+
+Check Same Tree
+Explanation: Two trees are the same when their structure and corresponding node values are equal.
+Example: Example: Both trees must have matching left and right structures.
