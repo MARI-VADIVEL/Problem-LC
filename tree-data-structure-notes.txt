@@ -38,3 +38,7 @@ Example: Example: Root 1 has depth 0, its child 2 has depth 1.
 Height of Tree
 Explanation: Height is the maximum number of edges from the root to a leaf.
 Example: Example: If the longest path is 1 -> 2 -> 4, the height is 2.
+
+Height of Node
+Explanation: The height of a node is the longest path from that node down to a leaf.
+Example: Example: A leaf has height 0.
