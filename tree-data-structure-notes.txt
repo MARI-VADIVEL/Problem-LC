@@ -34,3 +34,7 @@ Example: Example: 1 -> 2 -> 5 is a path from 1 to 5.
 Depth of Node
 Explanation: Depth tells how far a node is from the root. The root normally has depth 0.
 Example: Example: Root 1 has depth 0, its child 2 has depth 1.
+
+Height of Tree
+Explanation: Height is the maximum number of edges from the root to a leaf.
+Example: Example: If the longest path is 1 -> 2 -> 4, the height is 2.
