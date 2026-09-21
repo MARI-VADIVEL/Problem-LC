@@ -154,3 +154,7 @@ Example: Example: int val; TreeNode left; TreeNode right;
 Maximum Depth
 Explanation: Maximum depth finds how many levels or edges exist in the longest root-to-leaf path.
 Example: Example: 1 -> 2 -> 4 has maximum depth 2 when counting edges.
+
+Count Tree Nodes
+Explanation: To count nodes, count the current node and recursively count nodes in both subtrees.
+Example: Example: count = 1 + leftCount + rightCount.
