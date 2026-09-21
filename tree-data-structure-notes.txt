@@ -134,3 +134,7 @@ Example: Example: Tree 1 with children 2,3 gives 1,2,3.
 DFS on Tree
 Explanation: Depth First Search goes deep into one branch before coming back. Preorder, inorder, and postorder are DFS traversals.
 Example: Example: Recursive traversal naturally performs DFS.
+
+BFS on Tree
+Explanation: Breadth First Search visits nodes level by level. A queue is normally used.
+Example: Example: Start with root, process its children, then their children.
