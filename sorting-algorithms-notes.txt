@@ -185,3 +185,14 @@ After dividing, we compare the elements from the two sorted parts and put the sm
 Example:
 [1,4] and [2,3] -> [1,2,3,4]
 
+
+========================================
+THEORY: Merge Sort Complexity
+========================================
+
+Explanation:
+Merge Sort takes O(n log n) time. The array is divided into log n levels and every level processes all n elements.
+
+Example:
+8 elements -> about 3 levels of division
+
