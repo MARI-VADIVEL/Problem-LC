@@ -70,3 +70,7 @@ Example: Example: Tree = 1.
 Binary Tree
 Explanation: A binary tree is a tree where every node can have at most two children.
 Example: Example: Node 1 can have left child 2 and right child 3.
+
+Left Child
+Explanation: In a binary tree, the left child is the node connected on the left side of its parent.
+Example: Example: If 2 is the left child of 1, then 1.left points to 2.
