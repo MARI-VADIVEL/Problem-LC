@@ -416,3 +416,14 @@ The values are divided into buckets based on their range. Values that are close 
 Example:
 0.1 and 0.2 can go into the same bucket range.
 
+
+========================================
+THEORY: Bucket Sort Complexity
+========================================
+
+Explanation:
+Bucket Sort can be very fast when the values are distributed evenly. Its average performance can be close to O(n).
+
+Example:
+Uniformly distributed values usually create smaller buckets.
+
