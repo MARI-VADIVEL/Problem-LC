@@ -482,3 +482,14 @@ Some sorting algorithms do not compare every pair of elements. They use informat
 Example:
 Counting Sort uses the frequency of each value.
 
+
+========================================
+THEORY: Adaptive Sorting
+========================================
+
+Explanation:
+An adaptive sorting algorithm can take advantage of an array that is already partly sorted.
+
+Example:
+[1,2,3,5,4] -> Insertion Sort only needs to move 5.
+
