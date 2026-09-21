@@ -166,3 +166,7 @@ Example: Example: Values 1,2,3 give sum 6.
 Find Maximum Value
 Explanation: To find the maximum value, compare the current node with the maximum values from both subtrees.
 Example: Example: Values 4,9,2 give maximum 9.
+
+Lowest Common Ancestor
+Explanation: The Lowest Common Ancestor is the lowest node that is an ancestor of two given nodes.
+Example: Example: In a tree, if 2 and 3 are children of 1, their LCA is 1.
