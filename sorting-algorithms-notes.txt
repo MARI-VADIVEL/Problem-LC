@@ -108,3 +108,14 @@ Selection Sort always searches the remaining elements, so it takes O(n^2) time. 
 Example:
 [1,2,3,4] -> still performs comparisons
 
+
+========================================
+THEORY: Insertion Sort
+========================================
+
+Explanation:
+Take one element and insert it into the correct place in the already sorted part of the array.
+
+Example:
+[5,2,4] -> [2,5,4] -> [2,4,5]
+
