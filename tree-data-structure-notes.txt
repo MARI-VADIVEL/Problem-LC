@@ -122,3 +122,7 @@ Example: Example: Tree 2 with children 1 and 3 gives 1,2,3.
 Preorder Traversal
 Explanation: Preorder visits Root, Left, Right.
 Example: Example: Tree 1 with children 2 and 3 gives 1,2,3.
+
+Postorder Traversal
+Explanation: Postorder visits Left, Right, Root.
+Example: Example: Tree 1 with children 2 and 3 gives 2,3,1.
