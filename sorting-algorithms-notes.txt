@@ -504,3 +504,14 @@ When only a few elements are in the wrong position, Insertion Sort can be a good
 Example:
 [1,2,3,5,4] -> move 4 before 5
 
+
+========================================
+THEORY: Sorting Objects
+========================================
+
+Explanation:
+We can sort objects based on one of their properties. For example, students can be sorted using their marks.
+
+Example:
+Students with marks 90,70,80 -> 70,80,90
+
