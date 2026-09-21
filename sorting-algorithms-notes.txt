@@ -9,3 +9,14 @@ Sorting means arranging the elements in some order. Most of the time we sort fro
 Example:
 [5,2,8,1] -> [1,2,5,8]
 
+
+========================================
+THEORY: Ascending Order
+========================================
+
+Explanation:
+Ascending means the smaller value comes first and the bigger value comes later.
+
+Example:
+[4,1,3,2] -> [1,2,3,4]
+
