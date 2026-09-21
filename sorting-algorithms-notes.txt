@@ -42,3 +42,14 @@ Compare two nearby elements. If the left one is bigger, swap them. By doing this
 Example:
 [5,2,1] -> [2,5,1] -> [2,1,5] -> [1,2,5]
 
+
+========================================
+THEORY: Bubble Sort Pass
+========================================
+
+Explanation:
+One pass means going through the array once and comparing the neighbouring elements. Usually the biggest unsorted value reaches the end.
+
+Example:
+[4,2,3] -> after a pass, 4 moves to the end
+
