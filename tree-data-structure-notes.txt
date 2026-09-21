@@ -198,3 +198,7 @@ Example: Example: In a min heap, the smallest value is always at the root.
 Min Heap and Max Heap
 Explanation: A min heap keeps the smallest value at the root, while a max heap keeps the largest value at the root.
 Example: Example: Min heap root = 1, max heap root = 9.
+
+Tree Applications
+Explanation: Trees are used in file systems, databases, searching, compilers, priority queues, and many other systems.
+Example: Example: Folder structures can naturally be represented using a tree.
