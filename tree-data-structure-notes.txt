@@ -150,3 +150,7 @@ Example: Example: Iterative preorder traversal uses a stack to remember nodes.
 Tree Node in Java
 Explanation: A binary tree node in Java normally stores a value and references to left and right children.
 Example: Example: int val; TreeNode left; TreeNode right;
+
+Maximum Depth
+Explanation: Maximum depth finds how many levels or edges exist in the longest root-to-leaf path.
+Example: Example: 1 -> 2 -> 4 has maximum depth 2 when counting edges.
