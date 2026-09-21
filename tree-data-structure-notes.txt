@@ -170,3 +170,7 @@ Example: Example: Values 4,9,2 give maximum 9.
 Lowest Common Ancestor
 Explanation: The Lowest Common Ancestor is the lowest node that is an ancestor of two given nodes.
 Example: Example: In a tree, if 2 and 3 are children of 1, their LCA is 1.
+
+Diameter of Tree
+Explanation: The diameter is the longest path between any two nodes in the tree.
+Example: Example: The longest path may pass through the root or through another internal node.
