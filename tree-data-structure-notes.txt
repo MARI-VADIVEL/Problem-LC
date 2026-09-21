@@ -2,3 +2,7 @@
 What is a Tree
 Explanation: A tree is a non-linear data structure made of nodes connected by edges. It starts from one root node and branches into smaller nodes.
 Example: Example: 1 has children 2 and 3.
+
+Root Node
+Explanation: The root is the topmost node of a tree. A tree normally has only one root node.
+Example: Example: In 1 -> 2,3, node 1 is the root.
