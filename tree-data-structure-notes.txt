@@ -66,3 +66,7 @@ Example: Example: If the largest number of children of one node is 3, tree degre
 Tree with One Node
 Explanation: A tree can contain only one node. That node is both the root and a leaf.
 Example: Example: Tree = 1.
+
+Binary Tree
+Explanation: A binary tree is a tree where every node can have at most two children.
+Example: Example: Node 1 can have left child 2 and right child 3.
