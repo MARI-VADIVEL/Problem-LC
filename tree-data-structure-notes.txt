@@ -78,3 +78,7 @@ Example: Example: If 2 is the left child of 1, then 1.left points to 2.
 Right Child
 Explanation: In a binary tree, the right child is the node connected on the right side of its parent.
 Example: Example: If 3 is the right child of 1, then 1.right points to 3.
+
+Full Binary Tree
+Explanation: A full binary tree is a binary tree where every node has either 0 or 2 children.
+Example: Example: A node cannot have only one child.
