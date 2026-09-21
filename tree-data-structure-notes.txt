@@ -82,3 +82,7 @@ Example: Example: If 3 is the right child of 1, then 1.right points to 3.
 Full Binary Tree
 Explanation: A full binary tree is a binary tree where every node has either 0 or 2 children.
 Example: Example: A node cannot have only one child.
+
+Complete Binary Tree
+Explanation: A complete binary tree has all levels completely filled except possibly the last level, which is filled from left to right.
+Example: Example: This structure is commonly used for heaps.
