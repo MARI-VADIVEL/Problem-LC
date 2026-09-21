@@ -438,3 +438,14 @@ A stable sort does not change the order of equal elements. This is useful when o
 Example:
 [A(80),B(80)] -> A remains before B
 
+
+========================================
+THEORY: Unstable Sorting
+========================================
+
+Explanation:
+An unstable sort may change the order of elements that have the same value.
+
+Example:
+[A(80),B(80)] could become [B(80),A(80)]
+
