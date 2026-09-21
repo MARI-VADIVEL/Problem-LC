@@ -54,3 +54,7 @@ Example: Example: For 4 in 1 -> 2 -> 4, nodes 1 and 2 are ancestors.
 Descendant
 Explanation: A descendant is a node that comes below another node in the tree.
 Example: Example: If 1 -> 2 -> 4, then 2 and 4 are descendants of 1.
+
+Degree of Node
+Explanation: The degree of a node is the number of children it has.
+Example: Example: If node 1 has three children, its degree is 3.
