@@ -556,3 +556,16 @@ For each fruit:
 
 Basic complexity:
 O(n^2)
+
+============================================================
+COMMIT 41 - Add segment tree optimization concept
+============================================================
+Fruits Into Baskets II - Segment Tree
+
+The basic solution scans every basket.
+
+A segment tree can store the maximum basket capacity in each
+range.
+
+If a range maximum is smaller than the current fruit quantity,
+that entire range can be skipped.
