@@ -579,3 +579,14 @@ Each tree node stores the maximum capacity among its range.
 
 This allows us to quickly determine whether a valid basket exists
 inside a range.
+
+============================================================
+COMMIT 43 - Add leftmost valid basket search
+============================================================
+Segment Tree - Leftmost Valid Basket
+
+To find the leftmost valid basket:
+1. If the current maximum is less than the fruit quantity, return -1.
+2. Check the left child first.
+3. If no valid basket exists there, check the right child.
+4. Continue until reaching a leaf.
