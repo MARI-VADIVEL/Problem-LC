@@ -76,3 +76,16 @@ operations.
 It is useful for understanding the problem before introducing DP.
 
 The main drawback is repeated calculation of the same states.
+
+============================================================
+COMMIT 6 - Explain overlapping subproblems in Edit Distance
+============================================================
+Edit Distance - Overlapping Subproblems
+
+Different recursive paths can reach the same state solve(i,j).
+
+Calculating the same state repeatedly makes the recursive
+solution inefficient.
+
+Dynamic Programming stores the result of each state so it is
+calculated only once.
