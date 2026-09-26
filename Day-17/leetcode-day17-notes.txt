@@ -203,3 +203,14 @@ Move left to mid + 1.
 guess(mid) == -1
 The hidden number is smaller than mid.
 Move right to mid - 1.
+
+============================================================
+COMMIT 15 - Add Guess Number optimized Java solution
+============================================================
+Guess Number - Optimal Solution
+
+Binary Search reduces the search range by approximately half
+after every iteration.
+
+Time: O(log n)
+Space: O(1)
