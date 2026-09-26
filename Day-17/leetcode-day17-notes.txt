@@ -625,3 +625,22 @@ is less than or equal to the query.
 
 Because we only care about the number of selected elements, the
 smallest values should be selected first.
+
+============================================================
+COMMIT 47 - Add sorting and prefix sum technique
+============================================================
+Longest Subsequence With Limited Sum - Prefix Sum
+
+Sort nums.
+
+Example:
+nums = [4,5,2,1]
+
+Sorted:
+[1,2,4,5]
+
+Prefix sum:
+[1,3,7,12]
+
+Each prefix represents the minimum sum needed to select that
+many elements.
