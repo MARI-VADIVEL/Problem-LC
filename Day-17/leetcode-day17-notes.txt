@@ -481,3 +481,13 @@ After the search:
 - If no such value exists, x is valid.
 - If the value is greater than x + d, x is valid.
 - Otherwise a nearby value exists.
+
+============================================================
+COMMIT 35 - Add Distance Value optimized Java solution
+============================================================
+Distance Value - Optimized Solution
+
+Sort arr2 once and use binary search for every arr1 element.
+
+Time: O(m log m + n log m)
+Space: O(1) apart from sorting implementation.
