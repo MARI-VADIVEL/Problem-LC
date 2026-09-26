@@ -467,3 +467,17 @@ Sort arr2 first.
 
 Once arr2 is sorted, binary search can quickly find the first
 value greater than or equal to x - d.
+
+============================================================
+COMMIT 34 - Add lower-bound binary search logic
+============================================================
+Distance Value - Lower Bound
+
+Search for the first arr2 value satisfying:
+
+arr2[mid] >= x - d
+
+After the search:
+- If no such value exists, x is valid.
+- If the value is greater than x + d, x is valid.
+- Otherwise a nearby value exists.
