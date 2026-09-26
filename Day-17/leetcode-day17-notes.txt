@@ -441,3 +441,19 @@ such that:
 |x - y| <= d
 
 If such a value exists, x does not contribute to the answer.
+
+============================================================
+COMMIT 32 - Add distance condition as numeric range
+============================================================
+Distance Value - Range Transformation
+
+The condition:
+
+|x - y| <= d
+
+can be rewritten as:
+
+x - d <= y <= x + d
+
+Therefore, for every x, we only need to determine whether arr2
+contains a value inside this range.
