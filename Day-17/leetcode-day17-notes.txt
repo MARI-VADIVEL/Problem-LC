@@ -569,3 +569,13 @@ range.
 
 If a range maximum is smaller than the current fruit quantity,
 that entire range can be skipped.
+
+============================================================
+COMMIT 42 - Add segment tree maximum-value representation
+============================================================
+Segment Tree - Maximum Capacity
+
+Each tree node stores the maximum capacity among its range.
+
+This allows us to quickly determine whether a valid basket exists
+inside a range.
