@@ -128,3 +128,19 @@ A variable called prev stores the previous diagonal value.
 
 Time: O(n * m)
 Space: O(m)
+
+============================================================
+COMMIT 10 - Document Edit Distance time and space complexity
+============================================================
+Edit Distance - Complexity
+
+2D DP:
+Time: O(n * m)
+Space: O(n * m)
+
+Optimized 1D DP:
+Time: O(n * m)
+Space: O(m)
+
+The 1D version keeps the same time complexity while reducing
+memory usage.
