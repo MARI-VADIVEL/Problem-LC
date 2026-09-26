@@ -325,3 +325,16 @@ Important cases:
 3. kth missing value occurs after the final array element.
 
 The same missing-count formula handles all cases.
+
+============================================================
+COMMIT 23 - Add Maximum Fruits problem understanding
+============================================================
+LeetCode 2106 - Maximum Fruits Harvested After at Most K Steps
+
+Each fruit entry contains:
+[position, amount]
+
+Start at startPos.
+
+We need to collect the maximum fruits while walking at most
+k steps.
