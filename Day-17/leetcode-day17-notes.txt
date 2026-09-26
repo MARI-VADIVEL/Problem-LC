@@ -658,3 +658,18 @@ move right.
 
 Otherwise:
 move left.
+
+============================================================
+COMMIT 49 - Add optimized Longest Subsequence Java solution
+============================================================
+Longest Subsequence With Limited Sum - Optimal Solution
+
+Sort nums.
+Build prefix sums.
+Binary search each query.
+
+Time:
+O(n log n + q log n)
+
+Space:
+O(n)
