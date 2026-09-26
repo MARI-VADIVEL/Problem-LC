@@ -403,3 +403,14 @@ If the current window needs more than k steps:
 Remove fruits at the left position.
 Move left forward.
 Repeat until the window becomes valid.
+
+============================================================
+COMMIT 29 - Add Maximum Fruits optimized Java solution
+============================================================
+Maximum Fruits - Optimized Solution
+
+Sliding Window gives a linear-time solution because each position
+is added once and removed at most once.
+
+Time: O(n)
+Space: O(1)
