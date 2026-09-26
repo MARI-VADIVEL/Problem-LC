@@ -158,3 +158,17 @@ The guess API returns:
 -1 -> hidden number is lower
 
 This naturally forms a Binary Search problem.
+
+============================================================
+COMMIT 12 - Add Guess Number search range initialization
+============================================================
+Guess Number - Search Range
+
+Start with:
+
+left = 1
+right = n
+
+The complete possible range is initially available.
+
+After every guess, one half of the range can be eliminated.
