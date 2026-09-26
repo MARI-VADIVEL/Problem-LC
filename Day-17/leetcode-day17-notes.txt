@@ -505,3 +505,15 @@ Check:
 5. Negative array values.
 
 The inclusive condition means distance equal to d is not valid.
+
+============================================================
+COMMIT 37 - Add Fruits Into Baskets II greedy approach
+============================================================
+LeetCode 3477 - Fruits Into Baskets II
+
+Process fruits from left to right.
+
+For every fruit quantity, choose the leftmost available basket
+whose capacity is at least the fruit quantity.
+
+If no basket can hold it, the fruit remains unplaced.
