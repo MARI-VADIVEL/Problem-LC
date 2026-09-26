@@ -313,3 +313,15 @@ Sort is not required because the input is already sorted.
 Binary Search:
 Time: O(log n)
 Space: O(1)
+
+============================================================
+COMMIT 22 - Document Kth Missing Positive complexity and edge cases
+============================================================
+Kth Missing Positive - Edge Cases
+
+Important cases:
+1. Missing value occurs before the first array element.
+2. Missing values occur between array elements.
+3. kth missing value occurs after the final array element.
+
+The same missing-count formula handles all cases.
