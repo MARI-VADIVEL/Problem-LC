@@ -429,3 +429,15 @@ Consider:
 
 Time: O(n)
 Space: O(1)
+
+============================================================
+COMMIT 31 - Add Distance Value problem understanding
+============================================================
+LeetCode 1385 - Find the Distance Value Between Two Arrays
+
+For every x in arr1, determine whether there exists a y in arr2
+such that:
+
+|x - y| <= d
+
+If such a value exists, x does not contribute to the answer.
