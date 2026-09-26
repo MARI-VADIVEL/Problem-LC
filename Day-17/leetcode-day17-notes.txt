@@ -64,3 +64,15 @@ Current answer:
 
 If characters are equal:
 solve(i + 1, j + 1)
+
+============================================================
+COMMIT 5 - Add Edit Distance recursive Java solution
+============================================================
+Edit Distance - Recursive Solution
+
+The recursive solution directly represents the three possible
+operations.
+
+It is useful for understanding the problem before introducing DP.
+
+The main drawback is repeated calculation of the same states.
