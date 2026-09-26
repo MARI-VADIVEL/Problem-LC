@@ -414,3 +414,18 @@ is added once and removed at most once.
 
 Time: O(n)
 Space: O(1)
+
+============================================================
+COMMIT 30 - Document Maximum Fruits complexity and edge cases
+============================================================
+Maximum Fruits - Complexity and Edge Cases
+
+Consider:
+1. All fruits are to the left.
+2. All fruits are to the right.
+3. Start position lies inside the window.
+4. No fruit exists at startPos.
+5. k is zero.
+
+Time: O(n)
+Space: O(1)
