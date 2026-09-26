@@ -382,3 +382,13 @@ right first:
 leftDistance + 2 * rightDistance
 
 Take the minimum of these two values.
+
+============================================================
+COMMIT 27 - Add Maximum Fruits window expansion logic
+============================================================
+Maximum Fruits - Window Expansion
+
+For every right position:
+1. Add its fruit count to the current sum.
+2. Check whether the current range can be visited within k steps.
+3. Keep the largest valid sum.
