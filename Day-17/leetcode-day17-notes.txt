@@ -367,3 +367,18 @@ steps = startPos - left
 
 If the entire range is on the right:
 steps = right - startPos
+
+============================================================
+COMMIT 26 - Add left-first and right-first movement formulas
+============================================================
+Maximum Fruits - Crossing the Starting Position
+
+When the window crosses startPos:
+
+left first:
+2 * leftDistance + rightDistance
+
+right first:
+leftDistance + 2 * rightDistance
+
+Take the minimum of these two values.
