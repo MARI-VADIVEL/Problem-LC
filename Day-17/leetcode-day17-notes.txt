@@ -590,3 +590,13 @@ To find the leftmost valid basket:
 2. Check the left child first.
 3. If no valid basket exists there, check the right child.
 4. Continue until reaching a leaf.
+
+============================================================
+COMMIT 44 - Add basket update operation
+============================================================
+Segment Tree - Basket Update
+
+After using a basket, its capacity is set to -1.
+
+The segment tree is then updated upward so every affected range
+has the correct maximum value.
