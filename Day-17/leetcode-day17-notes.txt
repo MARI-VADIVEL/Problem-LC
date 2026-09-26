@@ -89,3 +89,14 @@ solution inefficient.
 
 Dynamic Programming stores the result of each state so it is
 calculated only once.
+
+============================================================
+COMMIT 7 - Add Edit Distance 2D DP state definition
+============================================================
+Edit Distance - 2D DP
+
+dp[i][j] represents the minimum operations required to convert
+the first i characters of word1 into the first j characters
+of word2.
+
+This converts the recursive problem into a table-based DP.
