@@ -644,3 +644,17 @@ Prefix sum:
 
 Each prefix represents the minimum sum needed to select that
 many elements.
+
+============================================================
+COMMIT 48 - Add binary search for maximum valid prefix
+============================================================
+Longest Subsequence With Limited Sum - Binary Search
+
+For each query, find the largest prefix sum that is less than
+or equal to the query.
+
+If prefix[mid] <= query:
+move right.
+
+Otherwise:
+move left.
