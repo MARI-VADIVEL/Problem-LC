@@ -517,3 +517,17 @@ For every fruit quantity, choose the leftmost available basket
 whose capacity is at least the fruit quantity.
 
 If no basket can hold it, the fruit remains unplaced.
+
+============================================================
+COMMIT 38 - Add leftmost valid basket selection logic
+============================================================
+Fruits Into Baskets II - Leftmost Rule
+
+The first basket that satisfies:
+
+basket >= fruit
+
+must be selected.
+
+We cannot simply choose the largest basket because the problem
+requires the leftmost available valid basket.
