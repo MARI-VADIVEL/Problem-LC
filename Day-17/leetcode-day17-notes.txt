@@ -457,3 +457,13 @@ x - d <= y <= x + d
 
 Therefore, for every x, we only need to determine whether arr2
 contains a value inside this range.
+
+============================================================
+COMMIT 33 - Add sorting for Distance Value optimization
+============================================================
+Distance Value - Sorting
+
+Sort arr2 first.
+
+Once arr2 is sorted, binary search can quickly find the first
+value greater than or equal to x - d.
