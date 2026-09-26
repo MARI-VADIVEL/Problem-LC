@@ -115,3 +115,16 @@ dp[0][j] = j
 
 Converting an empty string into the first j characters requires
 inserting j characters.
+
+============================================================
+COMMIT 9 - Add Edit Distance optimized 1D DP solution
+============================================================
+Edit Distance - Space Optimization
+
+The 2D DP table can be reduced to one dimension because each
+state only needs values from the previous row and current row.
+
+A variable called prev stores the previous diagonal value.
+
+Time: O(n * m)
+Space: O(m)
