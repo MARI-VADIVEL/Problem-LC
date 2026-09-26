@@ -392,3 +392,14 @@ For every right position:
 1. Add its fruit count to the current sum.
 2. Check whether the current range can be visited within k steps.
 3. Keep the largest valid sum.
+
+============================================================
+COMMIT 28 - Add Maximum Fruits window shrinking logic
+============================================================
+Maximum Fruits - Window Shrinking
+
+If the current window needs more than k steps:
+
+Remove fruits at the left position.
+Move left forward.
+Repeat until the window becomes valid.
