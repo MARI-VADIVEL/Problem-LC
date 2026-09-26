@@ -302,3 +302,14 @@ k = 5
 left = 4
 
 answer = 9
+
+============================================================
+COMMIT 21 - Add Kth Missing Positive optimized Java solution
+============================================================
+Kth Missing Positive - Optimal Solution
+
+Sort is not required because the input is already sorted.
+
+Binary Search:
+Time: O(log n)
+Space: O(1)
