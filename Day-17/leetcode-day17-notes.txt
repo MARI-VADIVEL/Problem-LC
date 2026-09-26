@@ -187,3 +187,19 @@ This is safer than:
 (left + right) / 2
 
 because it avoids unnecessary integer overflow.
+
+============================================================
+COMMIT 14 - Add Guess Number guess result handling
+============================================================
+Guess Number - Decision Rules
+
+guess(mid) == 0
+The answer is mid.
+
+guess(mid) == 1
+The hidden number is greater than mid.
+Move left to mid + 1.
+
+guess(mid) == -1
+The hidden number is smaller than mid.
+Move right to mid - 1.
