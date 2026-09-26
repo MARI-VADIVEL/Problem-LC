@@ -144,3 +144,17 @@ Space: O(m)
 
 The 1D version keeps the same time complexity while reducing
 memory usage.
+
+============================================================
+COMMIT 11 - Add Binary Search fundamentals with Guess Number
+============================================================
+LeetCode 374 - Guess Number Higher or Lower
+
+The hidden number is between 1 and n.
+
+The guess API returns:
+0  -> correct
+1  -> hidden number is higher
+-1 -> hidden number is lower
+
+This naturally forms a Binary Search problem.
