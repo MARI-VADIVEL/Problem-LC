@@ -214,3 +214,20 @@ after every iteration.
 
 Time: O(log n)
 Space: O(1)
+
+============================================================
+COMMIT 16 - Document Binary Search boundary handling
+============================================================
+Binary Search - Boundary Handling
+
+The loop condition is:
+
+left <= right
+
+When the middle value is too small:
+left = mid + 1
+
+When the middle value is too large:
+right = mid - 1
+
+These updates prevent the same value from being checked again.
