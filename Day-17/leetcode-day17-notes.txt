@@ -531,3 +531,14 @@ must be selected.
 
 We cannot simply choose the largest basket because the problem
 requires the leftmost available valid basket.
+
+============================================================
+COMMIT 39 - Add used basket handling
+============================================================
+Fruits Into Baskets II - Used Baskets
+
+Once a basket is used, it cannot be used again.
+
+A simple simulation can mark a used basket as -1.
+
+The next fruit will skip that basket.
