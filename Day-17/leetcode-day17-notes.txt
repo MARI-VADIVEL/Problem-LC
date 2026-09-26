@@ -100,3 +100,18 @@ the first i characters of word1 into the first j characters
 of word2.
 
 This converts the recursive problem into a table-based DP.
+
+============================================================
+COMMIT 8 - Add Edit Distance DP initialization
+============================================================
+Edit Distance - DP Initialization
+
+dp[i][0] = i
+
+Converting the first i characters into an empty string requires
+deleting i characters.
+
+dp[0][j] = j
+
+Converting an empty string into the first j characters requires
+inserting j characters.
