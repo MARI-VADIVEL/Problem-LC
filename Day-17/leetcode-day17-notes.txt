@@ -491,3 +491,17 @@ Sort arr2 once and use binary search for every arr1 element.
 
 Time: O(m log m + n log m)
 Space: O(1) apart from sorting implementation.
+
+============================================================
+COMMIT 36 - Document Distance Value complexity and edge cases
+============================================================
+Distance Value - Edge Cases
+
+Check:
+1. Duplicate values.
+2. d = 0.
+3. Nearby value at exactly distance d.
+4. All values outside the allowed range.
+5. Negative array values.
+
+The inclusive condition means distance equal to d is not valid.
