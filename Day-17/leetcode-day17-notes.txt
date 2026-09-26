@@ -47,3 +47,20 @@ word1 must all be deleted.
 Base cases:
 i == word1.length()
 j == word2.length()
+
+============================================================
+COMMIT 4 - Add Edit Distance insert delete replace transitions
+============================================================
+Edit Distance - Transitions
+
+If characters are different:
+
+insert = solve(i, j + 1)
+delete = solve(i + 1, j)
+replace = solve(i + 1, j + 1)
+
+Current answer:
+1 + minimum(insert, delete, replace)
+
+If characters are equal:
+solve(i + 1, j + 1)
