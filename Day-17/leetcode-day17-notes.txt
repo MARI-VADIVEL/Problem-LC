@@ -542,3 +542,17 @@ Once a basket is used, it cannot be used again.
 A simple simulation can mark a used basket as -1.
 
 The next fruit will skip that basket.
+
+============================================================
+COMMIT 40 - Add Fruits Into Baskets II basic Java solution
+============================================================
+Fruits Into Baskets II - Basic Solution
+
+For each fruit:
+1. Scan baskets from left to right.
+2. Find the first available basket with enough capacity.
+3. Mark it as used.
+4. If no basket works, increment the unplaced count.
+
+Basic complexity:
+O(n^2)
