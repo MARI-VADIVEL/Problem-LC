@@ -600,3 +600,17 @@ After using a basket, its capacity is set to -1.
 
 The segment tree is then updated upward so every affected range
 has the correct maximum value.
+
+============================================================
+COMMIT 45 - Add Fruits Into Baskets II O(n log n) solution
+============================================================
+Fruits Into Baskets II - Optimized Solution
+
+Segment tree operations:
+Build: O(n)
+Find leftmost valid basket: O(log n)
+Update used basket: O(log n)
+
+Overall:
+Time: O(n log n)
+Space: O(n)
