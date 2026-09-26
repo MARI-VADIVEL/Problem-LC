@@ -351,3 +351,19 @@ Expand the right side and maintain the total number of fruits.
 
 If the walking distance becomes greater than k, move the left
 side forward.
+
+============================================================
+COMMIT 25 - Add fruit range movement calculation
+============================================================
+Maximum Fruits - Movement Calculation
+
+For a window [left, right]:
+
+leftDistance = startPos - left
+rightDistance = right - startPos
+
+If the entire range is on the left:
+steps = startPos - left
+
+If the entire range is on the right:
+steps = right - startPos
