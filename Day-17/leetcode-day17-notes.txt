@@ -338,3 +338,16 @@ Start at startPos.
 
 We need to collect the maximum fruits while walking at most
 k steps.
+
+============================================================
+COMMIT 24 - Add Maximum Fruits sliding window concept
+============================================================
+Maximum Fruits - Sliding Window
+
+Because fruit positions are sorted, a consecutive range of
+positions can be represented as a window.
+
+Expand the right side and maintain the total number of fruits.
+
+If the walking distance becomes greater than k, move the left
+side forward.
