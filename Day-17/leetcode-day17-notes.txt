@@ -17,3 +17,18 @@ word1 = horse
 word2 = ros
 
 Answer = 3
+
+============================================================
+COMMIT 2 - Add Edit Distance recursive thinking
+============================================================
+Edit Distance - Recursive Thinking
+
+Define solve(i,j) as the minimum operations needed to convert
+word1 starting from index i into word2 starting from index j.
+
+At every position compare the two characters.
+
+If they are different, there are three choices:
+Insert
+Delete
+Replace
