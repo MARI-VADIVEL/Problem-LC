@@ -32,3 +32,18 @@ If they are different, there are three choices:
 Insert
 Delete
 Replace
+
+============================================================
+COMMIT 3 - Add Edit Distance base cases
+============================================================
+Edit Distance - Base Cases
+
+If word1 is completely processed, the remaining characters of
+word2 must all be inserted.
+
+If word2 is completely processed, the remaining characters of
+word1 must all be deleted.
+
+Base cases:
+i == word1.length()
+j == word2.length()
