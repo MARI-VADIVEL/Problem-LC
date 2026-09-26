@@ -673,3 +673,49 @@ O(n log n + q log n)
 
 Space:
 O(n)
+
+============================================================
+COMMIT 50 - Add combined notes for sorting prefix sum and binary search patterns
+============================================================
+Day-17 Combined Patterns
+
+Problems studied:
+72  - Edit Distance
+374 - Guess Number Higher or Lower
+1539 - Kth Missing Positive Number
+2106 - Maximum Fruits Harvested After at Most K Steps
+1385 - Find the Distance Value Between Two Arrays
+3477 - Fruits Into Baskets II
+2389 - Longest Subsequence With Limited Sum
+
+Important patterns:
+
+Dynamic Programming:
+72
+
+Binary Search:
+374
+1539
+1385
+2389
+
+Sliding Window:
+2106
+
+Greedy / Segment Tree:
+3477
+
+Reusable techniques:
+
+1. Identify the state before writing DP.
+2. Convert absolute-distance conditions into ranges.
+3. Sort when selecting the smallest values is beneficial.
+4. Use prefix sums when repeated range/prefix sums are needed.
+5. Use binary search when the answer space has a monotonic condition.
+6. Use sliding windows when a contiguous range must remain valid.
+7. Use segment trees when repeated range maximum queries and
+   point updates are required.
+
+Final Day-17 learning summary:
+The major focus was recognizing the underlying pattern rather
+than memorizing individual solutions.
