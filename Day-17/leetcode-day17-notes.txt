@@ -284,3 +284,21 @@ Otherwise:
 move left.
 
 This is a lower-bound style binary search.
+
+============================================================
+COMMIT 20 - Add Kth Missing Positive final answer formula
+============================================================
+Kth Missing Positive - Final Formula
+
+After binary search, left represents how many array values are
+before the kth missing number.
+
+The answer is:
+
+answer = k + left
+
+Example:
+k = 5
+left = 4
+
+answer = 9
