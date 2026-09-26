@@ -172,3 +172,18 @@ right = n
 The complete possible range is initially available.
 
 After every guess, one half of the range can be eliminated.
+
+============================================================
+COMMIT 13 - Add Guess Number midpoint calculation
+============================================================
+Guess Number - Midpoint
+
+Use:
+
+mid = left + (right - left) / 2
+
+This is safer than:
+
+(left + right) / 2
+
+because it avoids unnecessary integer overflow.
