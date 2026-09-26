@@ -267,3 +267,20 @@ missing = 7 - 4
         = 3
 
 There are three missing positive numbers before 7.
+
+============================================================
+COMMIT 19 - Add Kth Missing Positive binary search condition
+============================================================
+Kth Missing Positive - Binary Search
+
+We need the first index where:
+
+arr[mid] - (mid + 1) >= k
+
+If the missing count is smaller than k:
+move right.
+
+Otherwise:
+move left.
+
+This is a lower-bound style binary search.
