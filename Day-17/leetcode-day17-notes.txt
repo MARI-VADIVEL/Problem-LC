@@ -1,0 +1,19 @@
+
+============================================================
+COMMIT 1 - Add Edit Distance problem statement and operation rules
+============================================================
+LeetCode 72 - Edit Distance
+
+Problem:
+Convert word1 into word2 using the minimum number of operations.
+
+Allowed operations:
+1. Insert a character
+2. Delete a character
+3. Replace a character
+
+Example:
+word1 = horse
+word2 = ros
+
+Answer = 3
